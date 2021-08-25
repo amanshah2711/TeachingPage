@@ -51,7 +51,7 @@ class Teaching extends React.Component{
                                             <td>0</td>
                                             <td>Wed 6/22</td>
                                             <td>Welcome to 61A! <br/><Badge variant='primary'> <a href={disc0} style={{color:"white"}} target="_blank">slides</a></Badge></td>
-                                            <td><a href={disc0wk} style={{color:"black"}} target="_blank">Disc 00</a> <br/><Badge variant='primary'><a href={disc0wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
+                                            <td><a href={disc0wk} style={{color:"black"}} target="_blank">Disc 00</a></td>
                                         </tr>
                                     </tbody>
 
