@@ -1,0 +1,7 @@
+INFO - score - Running command 'score_agent'
+INFO - score - Started run with ID "55"
+> /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/auto_score.py(227)score_agent()
+-> for a, b in zip(test, retrain):
+(Pdb) ['000001427280', '000002504000', '000004161648', '000005704112', '000007281632', '000009089520']
+(Pdb) ['retrain_1']
+(Pdb) 

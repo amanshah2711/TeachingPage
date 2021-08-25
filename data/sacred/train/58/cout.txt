@@ -1,0 +1,2779 @@
+INFO - train - Running command 'train'
+INFO - train - Started run with ID "58"
+Logging to data/baselines/20201216_033645-default/rl
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from ''
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/misc_util.py:26: The name tf.set_random_seed is deprecated. Please use tf.compat.v1.set_random_seed instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/misc_util.py:26: The name tf.set_random_seed is deprecated. Please use tf.compat.v1.set_random_seed instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/tf_util.py:191: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/tf_util.py:191: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/policies.py:116: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/policies.py:116: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/input.py:25: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/input.py:25: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/policies.py:561: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/policies.py:561: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/python/layers/core.py:332: Layer.apply (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/python/layers/core.py:332: Layer.apply (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/tf_layers.py:123: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/tf_layers.py:123: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/distributions.py:418: The name tf.random_normal is deprecated. Please use tf.random.normal instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/distributions.py:418: The name tf.random_normal is deprecated. Please use tf.random.normal instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:190: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:190: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:198: The name tf.trainable_variables is deprecated. Please use tf.compat.v1.trainable_variables instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:198: The name tf.trainable_variables is deprecated. Please use tf.compat.v1.trainable_variables instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/python/ops/math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/python/ops/math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:206: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:206: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:240: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:240: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:242: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:242: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/logger.py:233: The name tf.Summary is deprecated. Please use tf.compat.v1.Summary instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/logger.py:233: The name tf.Summary is deprecated. Please use tf.compat.v1.Summary instead.
+
+-----------------------------------------
+| approxkl               | 0.0011227464 |
+| clipfrac               | 0.004486084  |
+| ep_len_mean            | 44.7         |
+| ep_reward_mean         | -458         |
+| explained_variance     | -0.0918      |
+| fps                    | 525          |
+| game_tie               | 0.935        |
+| game_total             | 46           |
+| game_win0              | 0.0217       |
+| game_win1              | 0.0435       |
+| n_updates              | 1            |
+| policy_entropy         | 24.133781    |
+| policy_loss            | -0.007990769 |
+| serial_timesteps       | 1024         |
+| shaping/epdensemean    | -1.09        |
+| shaping/eprewmean_true | -2.72        |
+| shaping/epsparsemean   | -4.35        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 2.69e-05     |
+| total_timesteps        | 8192         |
+| value_loss             | 1.0705422    |
+-----------------------------------------
+------------------------------------------
+| approxkl               | 0.00045592326 |
+| clipfrac               | 0.00012207031 |
+| ep_len_mean            | 45.4          |
+| ep_reward_mean         | -352          |
+| explained_variance     | 0.248         |
+| fps                    | 409           |
+| game_tie               | 0.955         |
+| game_total             | 44            |
+| game_win0              | 0             |
+| game_win1              | 0.0455        |
+| n_updates              | 2             |
+| policy_entropy         | 24.155125     |
+| policy_loss            | -0.0035335748 |
+| serial_timesteps       | 2048          |
+| shaping/epdensemean    | -1.97         |
+| shaping/eprewmean_true | -2.92         |
+| shaping/epsparsemean   | -3.86         |
+| shaping/rew_anneal_c   | 0.5           |
+| time_elapsed           | 15.6          |
+| total_timesteps        | 16384         |
+| value_loss             | 0.820001      |
+------------------------------------------
+------------------------------------------
+| approxkl               | 0.0005141121  |
+| clipfrac               | 0.00021362305 |
+| ep_len_mean            | 49            |
+| ep_reward_mean         | -554          |
+| explained_variance     | 0.469         |
+| fps                    | 292           |
+| game_tie               | 0.976         |
+| game_total             | 42            |
+| game_win0              | 0.0238        |
+| game_win1              | 0             |
+| n_updates              | 3             |
+| policy_entropy         | 24.18253      |
+| policy_loss            | -0.003943828  |
+| serial_timesteps       | 3072          |
+| shaping/epdensemean    | -4.58         |
+| shaping/eprewmean_true | -5.03         |
+| shaping/epsparsemean   | -5.48         |
+| shaping/rew_anneal_c   | 0.5           |
+| time_elapsed           | 35.6          |
+| total_timesteps        | 24576         |
+| value_loss             | 0.8232842     |
+------------------------------------------
+------------------------------------------
+| approxkl               | 0.0006087973  |
+| clipfrac               | 0.00076293945 |
+| ep_len_mean            | 47.1          |
+| ep_reward_mean         | -476          |
+| explained_variance     | 0.556         |
+| fps                    | 359           |
+| game_tie               | 0.977         |
+| game_total             | 43            |
+| game_win0              | 0.0233        |
+| game_win1              | 0             |
+| n_updates              | 4             |
+| policy_entropy         | 24.211983     |
+| policy_loss            | -0.0041424814 |
+| serial_timesteps       | 4096          |
+| shaping/epdensemean    | -3.52         |
+| shaping/eprewmean_true | -4.08         |
+| shaping/epsparsemean   | -4.65         |
+| shaping/rew_anneal_c   | 0.5           |
+| time_elapsed           | 63.6          |
+| total_timesteps        | 32768         |
+| value_loss             | 0.6646905     |
+------------------------------------------
+------------------------------------------
+| approxkl               | 0.00087191927 |
+| clipfrac               | 0.0018920898  |
+| ep_len_mean            | 45.8          |
+| ep_reward_mean         | -549          |
+| explained_variance     | 0.628         |
+| fps                    | 389           |
+| game_tie               | 1             |
+| game_total             | 42            |
+| game_win0              | 0             |
+| game_win1              | 0             |
+| n_updates              | 5             |
+| policy_entropy         | 24.234268     |
+| policy_loss            | -0.0052640475 |
+| serial_timesteps       | 5120          |
+| shaping/epdensemean    | -2.21         |
+| shaping/eprewmean_true | -3.72         |
+| shaping/epsparsemean   | -5.24         |
+| shaping/rew_anneal_c   | 0.5           |
+| time_elapsed           | 86.3          |
+| total_timesteps        | 40960         |
+| value_loss             | 0.4952401     |
+------------------------------------------
+------------------------------------------
+| approxkl               | 0.0010859251  |
+| clipfrac               | 0.00390625    |
+| ep_len_mean            | 48.4          |
+| ep_reward_mean         | -397          |
+| explained_variance     | 0.591         |
+| fps                    | 362           |
+| game_tie               | 0.953         |
+| game_total             | 43            |
+| game_win0              | 0             |
+| game_win1              | 0.0465        |
+| n_updates              | 6             |
+| policy_entropy         | 24.255266     |
+| policy_loss            | -0.0062115965 |
+| serial_timesteps       | 6144          |
+| shaping/epdensemean    | -3            |
+| shaping/eprewmean_true | -2.78         |
+| shaping/epsparsemean   | -2.56         |
+| shaping/rew_anneal_c   | 0.5           |
+| time_elapsed           | 107           |
+| total_timesteps        | 49152         |
+| value_loss             | 0.50466293    |
+------------------------------------------
+------------------------------------------
+| approxkl               | 0.0019320818  |
+| clipfrac               | 0.015625      |
+| ep_len_mean            | 47            |
+| ep_reward_mean         | -502          |
+| explained_variance     | 0.586         |
+| fps                    | 348           |
+| game_tie               | 0.953         |
+| game_total             | 43            |
+| game_win0              | 0.0465        |
+| game_win1              | 0             |
+| n_updates              | 7             |
+| policy_entropy         | 24.274248     |
+| policy_loss            | -0.0073143225 |
+| serial_timesteps       | 7168          |
+| shaping/epdensemean    | -3.14         |
+| shaping/eprewmean_true | -3.9          |
+| shaping/epsparsemean   | -4.65         |
+| shaping/rew_anneal_c   | 0.5           |
+| time_elapsed           | 130           |
+| total_timesteps        | 57344         |
+| value_loss             | 0.4512223     |
+------------------------------------------
+-----------------------------------------
+| approxkl               | 0.0016430592 |
+| clipfrac               | 0.010528564  |
+| ep_len_mean            | 47.4         |
+| ep_reward_mean         | -323         |
+| explained_variance     | 0.599        |
+| fps                    | 335          |
+| game_tie               | 0.953        |
+| game_total             | 43           |
+| game_win0              | 0            |
+| game_win1              | 0.0465       |
+| n_updates              | 8            |
+| policy_entropy         | 24.29399     |
+| policy_loss            | -0.007717638 |
+| serial_timesteps       | 8192         |
+| shaping/epdensemean    | -2.34        |
+| shaping/eprewmean_true | -2.8         |
+| shaping/epsparsemean   | -3.26        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 153          |
+| total_timesteps        | 65536        |
+| value_loss             | 0.36453813   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0025800597 |
+| clipfrac               | 0.025665283  |
+| ep_len_mean            | 49           |
+| ep_reward_mean         | -349         |
+| explained_variance     | 0.57         |
+| fps                    | 377          |
+| game_tie               | 0.951        |
+| game_total             | 41           |
+| game_win0              | 0.0244       |
+| game_win1              | 0.0244       |
+| n_updates              | 9            |
+| policy_entropy         | 24.31298     |
+| policy_loss            | -0.008071878 |
+| serial_timesteps       | 9216         |
+| shaping/epdensemean    | -3.53        |
+| shaping/eprewmean_true | -3.35        |
+| shaping/epsparsemean   | -3.17        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 178          |
+| total_timesteps        | 73728        |
+| value_loss             | 0.34569025   |
+-----------------------------------------
+----------------------------------------
+| approxkl               | 0.002579487 |
+| clipfrac               | 0.0256958   |
+| ep_len_mean            | 47.5        |
+| ep_reward_mean         | -359        |
+| explained_variance     | 0.573       |
+| fps                    | 383         |
+| game_tie               | 0.953       |
+| game_total             | 43          |
+| game_win0              | 0           |
+| game_win1              | 0.0465      |
+| n_updates              | 10          |
+| policy_entropy         | 24.331728   |
+| policy_loss            | -0.00954283 |
+| serial_timesteps       | 10240       |
+| shaping/epdensemean    | -0.821      |
+| shaping/eprewmean_true | -1.69       |
+| shaping/epsparsemean   | -2.56       |
+| shaping/rew_anneal_c   | 0.5         |
+| time_elapsed           | 200         |
+| total_timesteps        | 81920       |
+| value_loss             | 0.2961133   |
+----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0029832453 |
+| clipfrac               | 0.03149414   |
+| ep_len_mean            | 48.8         |
+| ep_reward_mean         | -366         |
+| explained_variance     | 0.575        |
+| fps                    | 340          |
+| game_tie               | 1            |
+| game_total             | 41           |
+| game_win0              | 0            |
+| game_win1              | 0            |
+| n_updates              | 11           |
+| policy_entropy         | 24.354683    |
+| policy_loss            | -0.009075662 |
+| serial_timesteps       | 11264        |
+| shaping/epdensemean    | 1.39         |
+| shaping/eprewmean_true | -1.26        |
+| shaping/epsparsemean   | -3.9         |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 221          |
+| total_timesteps        | 90112        |
+| value_loss             | 0.30543512   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0031939456 |
+| clipfrac               | 0.036346436  |
+| ep_len_mean            | 48.7         |
+| ep_reward_mean         | -262         |
+| explained_variance     | 0.57         |
+| fps                    | 393          |
+| game_tie               | 1            |
+| game_total             | 41           |
+| game_win0              | 0            |
+| game_win1              | 0            |
+| n_updates              | 12           |
+| policy_entropy         | 24.38329     |
+| policy_loss            | -0.008927817 |
+| serial_timesteps       | 12288        |
+| shaping/epdensemean    | 2.87         |
+| shaping/eprewmean_true | -0.0302      |
+| shaping/epsparsemean   | -2.93        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 245          |
+| total_timesteps        | 98304        |
+| value_loss             | 0.27187896   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0018518618 |
+| clipfrac               | 0.014282227  |
+| ep_len_mean            | 48.8         |
+| ep_reward_mean         | -275         |
+| explained_variance     | 0.625        |
+| fps                    | 434          |
+| game_tie               | 0.976        |
+| game_total             | 42           |
+| game_win0              | 0            |
+| game_win1              | 0.0238       |
+| n_updates              | 13           |
+| policy_entropy         | 24.40535     |
+| policy_loss            | -0.008630545 |
+| serial_timesteps       | 13312        |
+| shaping/epdensemean    | 3.16         |
+| shaping/eprewmean_true | 0.151        |
+| shaping/epsparsemean   | -2.86        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 266          |
+| total_timesteps        | 106496       |
+| value_loss             | 0.26321694   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0034292669 |
+| clipfrac               | 0.04019165   |
+| ep_len_mean            | 54.6         |
+| ep_reward_mean         | -728         |
+| explained_variance     | 0.616        |
+| fps                    | 461          |
+| game_tie               | 0.897        |
+| game_total             | 39           |
+| game_win0              | 0.103        |
+| game_win1              | 0            |
+| n_updates              | 14           |
+| policy_entropy         | 24.427338    |
+| policy_loss            | -0.009119898 |
+| serial_timesteps       | 14336        |
+| shaping/epdensemean    | 2.04         |
+| shaping/eprewmean_true | -3.21        |
+| shaping/epsparsemean   | -8.46        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 285          |
+| total_timesteps        | 114688       |
+| value_loss             | 0.35366893   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0026988012 |
+| clipfrac               | 0.026733398  |
+| ep_len_mean            | 51           |
+| ep_reward_mean         | -222         |
+| explained_variance     | 0.605        |
+| fps                    | 455          |
+| game_tie               | 0.951        |
+| game_total             | 41           |
+| game_win0              | 0            |
+| game_win1              | 0.0488       |
+| n_updates              | 15           |
+| policy_entropy         | 24.44881     |
+| policy_loss            | -0.009214142 |
+| serial_timesteps       | 15360        |
+| shaping/epdensemean    | 4.25         |
+| shaping/eprewmean_true | 0.539        |
+| shaping/epsparsemean   | -3.17        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 302          |
+| total_timesteps        | 122880       |
+| value_loss             | 0.289657     |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.003597341  |
+| clipfrac               | 0.040374756  |
+| ep_len_mean            | 49.8         |
+| ep_reward_mean         | -90.3        |
+| explained_variance     | 0.593        |
+| fps                    | 420          |
+| game_tie               | 0.951        |
+| game_total             | 41           |
+| game_win0              | 0.0244       |
+| game_win1              | 0.0244       |
+| n_updates              | 16           |
+| policy_entropy         | 24.468864    |
+| policy_loss            | -0.009310895 |
+| serial_timesteps       | 16384        |
+| shaping/epdensemean    | 6.37         |
+| shaping/eprewmean_true | 1.97         |
+| shaping/epsparsemean   | -2.44        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 320          |
+| total_timesteps        | 131072       |
+| value_loss             | 0.27257985   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0024469995 |
+| clipfrac               | 0.022003174  |
+| ep_len_mean            | 49.7         |
+| ep_reward_mean         | -180         |
+| explained_variance     | 0.634        |
+| fps                    | 387          |
+| game_tie               | 0.951        |
+| game_total             | 41           |
+| game_win0              | 0.0244       |
+| game_win1              | 0.0244       |
+| n_updates              | 17           |
+| policy_entropy         | 24.480104    |
+| policy_loss            | -0.009885625 |
+| serial_timesteps       | 17408        |
+| shaping/epdensemean    | 6.16         |
+| shaping/eprewmean_true | 2.1          |
+| shaping/epsparsemean   | -1.95        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 340          |
+| total_timesteps        | 139264       |
+| value_loss             | 0.26079693   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.003546545  |
+| clipfrac               | 0.039489746  |
+| ep_len_mean            | 51.2         |
+| ep_reward_mean         | -176         |
+| explained_variance     | 0.639        |
+| fps                    | 387          |
+| game_tie               | 0.902        |
+| game_total             | 41           |
+| game_win0              | 0.0244       |
+| game_win1              | 0.0732       |
+| n_updates              | 18           |
+| policy_entropy         | 24.493834    |
+| policy_loss            | -0.009355622 |
+| serial_timesteps       | 18432        |
+| shaping/epdensemean    | 6.87         |
+| shaping/eprewmean_true | 2.58         |
+| shaping/epsparsemean   | -1.71        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 361          |
+| total_timesteps        | 147456       |
+| value_loss             | 0.31086516   |
+-----------------------------------------
+------------------------------------------
+| approxkl               | 0.0017820923  |
+| clipfrac               | 0.011383057   |
+| ep_len_mean            | 61.4          |
+| ep_reward_mean         | -554          |
+| explained_variance     | 0.639         |
+| fps                    | 369           |
+| game_tie               | 0.943         |
+| game_total             | 35            |
+| game_win0              | 0             |
+| game_win1              | 0.0571        |
+| n_updates              | 19            |
+| policy_entropy         | 24.516262     |
+| policy_loss            | -0.0072043026 |
+| serial_timesteps       | 19456         |
+| shaping/epdensemean    | 2.03          |
+| shaping/eprewmean_true | -1.27         |
+| shaping/epsparsemean   | -4.57         |
+| shaping/rew_anneal_c   | 0.5           |
+| time_elapsed           | 382           |
+| total_timesteps        | 155648        |
+| value_loss             | 0.3962094     |
+------------------------------------------
+-----------------------------------------
+| approxkl               | 0.003262559  |
+| clipfrac               | 0.032409668  |
+| ep_len_mean            | 51.6         |
+| ep_reward_mean         | -236         |
+| explained_variance     | 0.668        |
+| fps                    | 410          |
+| game_tie               | 0.974        |
+| game_total             | 39           |
+| game_win0              | 0.0256       |
+| game_win1              | 0            |
+| n_updates              | 20           |
+| policy_entropy         | 24.53307     |
+| policy_loss            | -0.008991625 |
+| serial_timesteps       | 20480        |
+| shaping/epdensemean    | 8.15         |
+| shaping/eprewmean_true | 2.66         |
+| shaping/epsparsemean   | -2.82        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 404          |
+| total_timesteps        | 163840       |
+| value_loss             | 0.27391624   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0027691873 |
+| clipfrac               | 0.02670288   |
+| ep_len_mean            | 60.6         |
+| ep_reward_mean         | -453         |
+| explained_variance     | 0.686        |
+| fps                    | 433          |
+| game_tie               | 0.906        |
+| game_total             | 32           |
+| game_win0              | 0.0625       |
+| game_win1              | 0.0312       |
+| n_updates              | 21           |
+| policy_entropy         | 24.545307    |
+| policy_loss            | -0.01067674  |
+| serial_timesteps       | 21504        |
+| shaping/epdensemean    | 5.93         |
+| shaping/eprewmean_true | 0.154        |
+| shaping/epsparsemean   | -5.62        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 424          |
+| total_timesteps        | 172032       |
+| value_loss             | 0.31462488   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0022940787 |
+| clipfrac               | 0.01928711   |
+| ep_len_mean            | 53.1         |
+| ep_reward_mean         | -221         |
+| explained_variance     | 0.622        |
+| fps                    | 416          |
+| game_tie               | 0.895        |
+| game_total             | 38           |
+| game_win0              | 0.0526       |
+| game_win1              | 0.0526       |
+| n_updates              | 22           |
+| policy_entropy         | 24.557343    |
+| policy_loss            | -0.00938546  |
+| serial_timesteps       | 22528        |
+| shaping/epdensemean    | 7.79         |
+| shaping/eprewmean_true | 2.05         |
+| shaping/epsparsemean   | -3.68        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 443          |
+| total_timesteps        | 180224       |
+| value_loss             | 0.3685423    |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0037694275 |
+| clipfrac               | 0.04336548   |
+| ep_len_mean            | 54.5         |
+| ep_reward_mean         | -301         |
+| explained_variance     | 0.689        |
+| fps                    | 395          |
+| game_tie               | 0.925        |
+| game_total             | 40           |
+| game_win0              | 0.075        |
+| game_win1              | 0            |
+| n_updates              | 23           |
+| policy_entropy         | 24.572315    |
+| policy_loss            | -0.010885892 |
+| serial_timesteps       | 23552        |
+| shaping/epdensemean    | 8.71         |
+| shaping/eprewmean_true | 2.23         |
+| shaping/epsparsemean   | -4.25        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 463          |
+| total_timesteps        | 188416       |
+| value_loss             | 0.35029018   |
+-----------------------------------------
+----------------------------------------
+| approxkl               | 0.002381553 |
+| clipfrac               | 0.020507812 |
+| ep_len_mean            | 54.7        |
+| ep_reward_mean         | -184        |
+| explained_variance     | 0.719       |
+| fps                    | 412         |
+| game_tie               | 0.949       |
+| game_total             | 39          |
+| game_win0              | 0           |
+| game_win1              | 0.0513      |
+| n_updates              | 24          |
+| policy_entropy         | 24.584484   |
+| policy_loss            | -0.01051156 |
+| serial_timesteps       | 24576       |
+| shaping/epdensemean    | 8.36        |
+| shaping/eprewmean_true | 2.13        |
+| shaping/epsparsemean   | -4.1        |
+| shaping/rew_anneal_c   | 0.5         |
+| time_elapsed           | 484         |
+| total_timesteps        | 196608      |
+| value_loss             | 0.30103317  |
+----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0033080329 |
+| clipfrac               | 0.034973145  |
+| ep_len_mean            | 53.9         |
+| ep_reward_mean         | -198         |
+| explained_variance     | 0.718        |
+| fps                    | 405          |
+| game_tie               | 0.973        |
+| game_total             | 37           |
+| game_win0              | 0            |
+| game_win1              | 0.027        |
+| n_updates              | 25           |
+| policy_entropy         | 24.599075    |
+| policy_loss            | -0.010470213 |
+| serial_timesteps       | 25600        |
+| shaping/epdensemean    | 10           |
+| shaping/eprewmean_true | 3.51         |
+| shaping/epsparsemean   | -2.97        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 503          |
+| total_timesteps        | 204800       |
+| value_loss             | 0.3056577    |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0024008031 |
+| clipfrac               | 0.021240234  |
+| ep_len_mean            | 49.9         |
+| ep_reward_mean         | 40.9         |
+| explained_variance     | 0.676        |
+| fps                    | 368          |
+| game_tie               | 0.974        |
+| game_total             | 39           |
+| game_win0              | 0            |
+| game_win1              | 0.0256       |
+| n_updates              | 26           |
+| policy_entropy         | 24.612791    |
+| policy_loss            | -0.00933997  |
+| serial_timesteps       | 26624        |
+| shaping/epdensemean    | 12.5         |
+| shaping/eprewmean_true | 5.87         |
+| shaping/epsparsemean   | -0.769       |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 524          |
+| total_timesteps        | 212992       |
+| value_loss             | 0.28027973   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0034425205 |
+| clipfrac               | 0.036254883  |
+| ep_len_mean            | 60.4         |
+| ep_reward_mean         | -469         |
+| explained_variance     | 0.737        |
+| fps                    | 421          |
+| game_tie               | 0.882        |
+| game_total             | 34           |
+| game_win0              | 0.0294       |
+| game_win1              | 0.0882       |
+| n_updates              | 27           |
+| policy_entropy         | 24.628082    |
+| policy_loss            | -0.010871282 |
+| serial_timesteps       | 27648        |
+| shaping/epdensemean    | 7.27         |
+| shaping/eprewmean_true | 1.72         |
+| shaping/epsparsemean   | -3.82        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 546          |
+| total_timesteps        | 221184       |
+| value_loss             | 0.3320198    |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0033126152 |
+| clipfrac               | 0.03729248   |
+| ep_len_mean            | 39.5         |
+| ep_reward_mean         | 230          |
+| explained_variance     | 0.408        |
+| fps                    | 385          |
+| game_tie               | 0.86         |
+| game_total             | 50           |
+| game_win0              | 0            |
+| game_win1              | 0.14         |
+| n_updates              | 28           |
+| policy_entropy         | 24.646305    |
+| policy_loss            | -0.008872833 |
+| serial_timesteps       | 28672        |
+| shaping/epdensemean    | 12.4         |
+| shaping/eprewmean_true | 6.9          |
+| shaping/epsparsemean   | 1.4          |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 565          |
+| total_timesteps        | 229376       |
+| value_loss             | 0.22833605   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0026945353 |
+| clipfrac               | 0.025115967  |
+| ep_len_mean            | 60.5         |
+| ep_reward_mean         | -385         |
+| explained_variance     | 0.742        |
+| fps                    | 448          |
+| game_tie               | 0.906        |
+| game_total             | 32           |
+| game_win0              | 0.0938       |
+| game_win1              | 0            |
+| n_updates              | 29           |
+| policy_entropy         | 24.665718    |
+| policy_loss            | -0.009881314 |
+| serial_timesteps       | 29696        |
+| shaping/epdensemean    | 9.69         |
+| shaping/eprewmean_true | 1.88         |
+| shaping/epsparsemean   | -5.94        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 587          |
+| total_timesteps        | 237568       |
+| value_loss             | 0.2982073    |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0030059211 |
+| clipfrac               | 0.02859497   |
+| ep_len_mean            | 38.8         |
+| ep_reward_mean         | 179          |
+| explained_variance     | 0.612        |
+| fps                    | 453          |
+| game_tie               | 0.902        |
+| game_total             | 51           |
+| game_win0              | 0            |
+| game_win1              | 0.098        |
+| n_updates              | 30           |
+| policy_entropy         | 24.688984    |
+| policy_loss            | -0.008829522 |
+| serial_timesteps       | 30720        |
+| shaping/epdensemean    | 12.1         |
+| shaping/eprewmean_true | 6.54         |
+| shaping/epsparsemean   | 0.98         |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 605          |
+| total_timesteps        | 245760       |
+| value_loss             | 0.17274141   |
+-----------------------------------------
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201216_033645-default/checkpoint/000000250000'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201216_033645-default/checkpoint/000000250000/vec_normalize.pkl'
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_comCreating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+pete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+-----------------------------------------
+| approxkl               | 0.0028628001 |
+| clipfrac               | 0.028686523  |
+| ep_len_mean            | 56.1         |
+| ep_reward_mean         | -288         |
+| explained_variance     | 0.722        |
+| fps                    | 227          |
+| game_tie               | 0.923        |
+| game_total             | 39           |
+| game_win0              | 0.0513       |
+| game_win1              | 0.0256       |
+| n_updates              | 31           |
+| policy_entropy         | 24.712097    |
+| policy_loss            | -0.009632918 |
+| serial_timesteps       | 31744        |
+| shaping/epdensemean    | 5.94         |
+| shaping/eprewmean_true | 1.43         |
+| shaping/epsparsemean   | -3.08        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 623          |
+| total_timesteps        | 253952       |
+| value_loss             | 0.35439888   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0029340659 |
+| clipfrac               | 0.029205322  |
+| ep_len_mean            | 51.6         |
+| ep_reward_mean         | 95.1         |
+| explained_variance     | 0.707        |
+| fps                    | 452          |
+| game_tie               | 0.95         |
+| game_total             | 40           |
+| game_win0              | 0.025        |
+| game_win1              | 0.025        |
+| n_updates              | 32           |
+| policy_entropy         | 24.7276      |
+| policy_loss            | -0.010367289 |
+| serial_timesteps       | 32768        |
+| shaping/epdensemean    | 12.8         |
+| shaping/eprewmean_true | 6.13         |
+| shaping/epsparsemean   | -0.5         |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 659          |
+| total_timesteps        | 262144       |
+| value_loss             | 0.23387286   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0022043204 |
+| clipfrac               | 0.017547607  |
+| ep_len_mean            | 54.3         |
+| ep_reward_mean         | -130         |
+| explained_variance     | 0.754        |
+| fps                    | 409          |
+| game_tie               | 0.868        |
+| game_total             | 38           |
+| game_win0              | 0.0789       |
+| game_win1              | 0.0526       |
+| n_updates              | 33           |
+| policy_entropy         | 24.742538    |
+| policy_loss            | -0.009353287 |
+| serial_timesteps       | 33792        |
+| shaping/epdensemean    | 12.2         |
+| shaping/eprewmean_true | 4.89         |
+| shaping/epsparsemean   | -2.37        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 677          |
+| total_timesteps        | 270336       |
+| value_loss             | 0.2807182    |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.00370666   |
+| clipfrac               | 0.044036865  |
+| ep_len_mean            | 50.8         |
+| ep_reward_mean         | -141         |
+| explained_variance     | 0.761        |
+| fps                    | 391          |
+| game_tie               | 0.9          |
+| game_total             | 40           |
+| game_win0              | 0            |
+| game_win1              | 0.1          |
+| n_updates              | 34           |
+| policy_entropy         | 24.759811    |
+| policy_loss            | -0.011563037 |
+| serial_timesteps       | 34816        |
+| shaping/epdensemean    | 9.62         |
+| shaping/eprewmean_true | 4.06         |
+| shaping/epsparsemean   | -1.5         |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 697          |
+| total_timesteps        | 278528       |
+| value_loss             | 0.28437075   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0033603746 |
+| clipfrac               | 0.036254883  |
+| ep_len_mean            | 42.3         |
+| ep_reward_mean         | 169          |
+| explained_variance     | 0.67         |
+| fps                    | 359          |
+| game_tie               | 0.961        |
+| game_total             | 51           |
+| game_win0              | 0            |
+| game_win1              | 0.0392       |
+| n_updates              | 35           |
+| policy_entropy         | 24.78053     |
+| policy_loss            | -0.011118723 |
+| serial_timesteps       | 35840        |
+| shaping/epdensemean    | 12.5         |
+| shaping/eprewmean_true | 6.36         |
+| shaping/epsparsemean   | 0.196        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 718          |
+| total_timesteps        | 286720       |
+| value_loss             | 0.17299156   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0034226137 |
+| clipfrac               | 0.03543091   |
+| ep_len_mean            | 61.8         |
+| ep_reward_mean         | -391         |
+| explained_variance     | 0.776        |
+| fps                    | 455          |
+| game_tie               | 0.969        |
+| game_total             | 32           |
+| game_win0              | 0.0312       |
+| game_win1              | 0            |
+| n_updates              | 36           |
+| policy_entropy         | 24.800114    |
+| policy_loss            | -0.011594776 |
+| serial_timesteps       | 36864        |
+| shaping/epdensemean    | 9.59         |
+| shaping/eprewmean_true | 2.14         |
+| shaping/epsparsemean   | -5.31        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 741          |
+| total_timesteps        | 294912       |
+| value_loss             | 0.29494208   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0031730523 |
+| clipfrac               | 0.03375244   |
+| ep_len_mean            | 51.6         |
+| ep_reward_mean         | -38.1        |
+| explained_variance     | 0.738        |
+| fps                    | 492          |
+| game_tie               | 0.949        |
+| game_total             | 39           |
+| game_win0              | 0.0256       |
+| game_win1              | 0.0256       |
+| n_updates              | 37           |
+| policy_entropy         | 24.827555    |
+| policy_loss            | -0.011420394 |
+| serial_timesteps       | 37888        |
+| shaping/epdensemean    | 9.43         |
+| shaping/eprewmean_true | 4.07         |
+| shaping/epsparsemean   | -1.28        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 759          |
+| total_timesteps        | 303104       |
+| value_loss             | 0.26134396   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0028672586 |
+| clipfrac               | 0.02822876   |
+| ep_len_mean            | 51.2         |
+| ep_reward_mean         | 57.2         |
+| explained_variance     | 0.733        |
+| fps                    | 529          |
+| game_tie               | 0.921        |
+| game_total             | 38           |
+| game_win0              | 0            |
+| game_win1              | 0.0789       |
+| n_updates              | 38           |
+| policy_entropy         | 24.84788     |
+| policy_loss            | -0.010816107 |
+| serial_timesteps       | 38912        |
+| shaping/epdensemean    | 12.3         |
+| shaping/eprewmean_true | 5.73         |
+| shaping/epsparsemean   | -0.789       |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 775          |
+| total_timesteps        | 311296       |
+| value_loss             | 0.25386563   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0027498195 |
+| clipfrac               | 0.026306152  |
+| ep_len_mean            | 52.2         |
+| ep_reward_mean         | 57.6         |
+| explained_variance     | 0.749        |
+| fps                    | 523          |
+| game_tie               | 0.925        |
+| game_total             | 40           |
+| game_win0              | 0.05         |
+| game_win1              | 0.025        |
+| n_updates              | 39           |
+| policy_entropy         | 24.866232    |
+| policy_loss            | -0.010338563 |
+| serial_timesteps       | 39936        |
+| shaping/epdensemean    | 13.3         |
+| shaping/eprewmean_true | 6.26         |
+| shaping/epsparsemean   | -0.75        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 791          |
+| total_timesteps        | 319488       |
+| value_loss             | 0.21144241   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0031390483 |
+| clipfrac               | 0.032348633  |
+| ep_len_mean            | 44.2         |
+| ep_reward_mean         | 159          |
+| explained_variance     | 0.737        |
+| fps                    | 479          |
+| game_tie               | 0.889        |
+| game_total             | 45           |
+| game_win0              | 0.0222       |
+| game_win1              | 0.0889       |
+| n_updates              | 40           |
+| policy_entropy         | 24.889214    |
+| policy_loss            | -0.010739343 |
+| serial_timesteps       | 40960        |
+| shaping/epdensemean    | 12.9         |
+| shaping/eprewmean_true | 6.66         |
+| shaping/epsparsemean   | 0.444        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 806          |
+| total_timesteps        | 327680       |
+| value_loss             | 0.15377803   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0032258988 |
+| clipfrac               | 0.034088135  |
+| ep_len_mean            | 63.3         |
+| ep_reward_mean         | -401         |
+| explained_variance     | 0.799        |
+| fps                    | 451          |
+| game_tie               | 0.968        |
+| game_total             | 31           |
+| game_win0              | 0            |
+| game_win1              | 0.0323       |
+| n_updates              | 41           |
+| policy_entropy         | 24.906147    |
+| policy_loss            | -0.011672143 |
+| serial_timesteps       | 41984        |
+| shaping/epdensemean    | 10.8         |
+| shaping/eprewmean_true | 3.29         |
+| shaping/epsparsemean   | -4.19        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 824          |
+| total_timesteps        | 335872       |
+| value_loss             | 0.28537688   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0038352704 |
+| clipfrac               | 0.044708252  |
+| ep_len_mean            | 39.5         |
+| ep_reward_mean         | 183          |
+| explained_variance     | 0.699        |
+| fps                    | 421          |
+| game_tie               | 0.94         |
+| game_total             | 50           |
+| game_win0              | 0            |
+| game_win1              | 0.06         |
+| n_updates              | 42           |
+| policy_entropy         | 24.922512    |
+| policy_loss            | -0.011047838 |
+| serial_timesteps       | 43008        |
+| shaping/epdensemean    | 12.4         |
+| shaping/eprewmean_true | 6.52         |
+| shaping/epsparsemean   | 0.6          |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 842          |
+| total_timesteps        | 344064       |
+| value_loss             | 0.11825614   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0032945764 |
+| clipfrac               | 0.034088135  |
+| ep_len_mean            | 50.4         |
+| ep_reward_mean         | 153          |
+| explained_variance     | 0.747        |
+| fps                    | 477          |
+| game_tie               | 0.977        |
+| game_total             | 43           |
+| game_win0              | 0            |
+| game_win1              | 0.0233       |
+| n_updates              | 43           |
+| policy_entropy         | 24.937714    |
+| policy_loss            | -0.010427753 |
+| serial_timesteps       | 44032        |
+| shaping/epdensemean    | 12.1         |
+| shaping/eprewmean_true | 6.07         |
+| shaping/epsparsemean   | 0            |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 861          |
+| total_timesteps        | 352256       |
+| value_loss             | 0.16627261   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0026103382 |
+| clipfrac               | 0.021240234  |
+| ep_len_mean            | 56.6         |
+| ep_reward_mean         | -59.9        |
+| explained_variance     | 0.784        |
+| fps                    | 532          |
+| game_tie               | 1            |
+| game_total             | 37           |
+| game_win0              | 0            |
+| game_win1              | 0            |
+| n_updates              | 44           |
+| policy_entropy         | 24.955101    |
+| policy_loss            | -0.011005483 |
+| serial_timesteps       | 45056        |
+| shaping/epdensemean    | 14.1         |
+| shaping/eprewmean_true | 6.09         |
+| shaping/epsparsemean   | -1.89        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 878          |
+| total_timesteps        | 360448       |
+| value_loss             | 0.23746347   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0034074727 |
+| clipfrac               | 0.036834717  |
+| ep_len_mean            | 39.4         |
+| ep_reward_mean         | 150          |
+| explained_variance     | 0.699        |
+| fps                    | 502          |
+| game_tie               | 0.96         |
+| game_total             | 50           |
+| game_win0              | 0            |
+| game_win1              | 0.04         |
+| n_updates              | 45           |
+| policy_entropy         | 24.967373    |
+| policy_loss            | -0.011230746 |
+| serial_timesteps       | 46080        |
+| shaping/epdensemean    | 12.3         |
+| shaping/eprewmean_true | 6.34         |
+| shaping/epsparsemean   | 0.4          |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 894          |
+| total_timesteps        | 368640       |
+| value_loss             | 0.118884705  |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0033023655 |
+| clipfrac               | 0.034362793  |
+| ep_len_mean            | 42.2         |
+| ep_reward_mean         | 114          |
+| explained_variance     | 0.754        |
+| fps                    | 510          |
+| game_tie               | 0.958        |
+| game_total             | 48           |
+| game_win0              | 0            |
+| game_win1              | 0.0417       |
+| n_updates              | 46           |
+| policy_entropy         | 24.97947     |
+| policy_loss            | -0.011114197 |
+| serial_timesteps       | 47104        |
+| shaping/epdensemean    | 12.8         |
+| shaping/eprewmean_true | 6.62         |
+| shaping/epsparsemean   | 0.417        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 910          |
+| total_timesteps        | 376832       |
+| value_loss             | 0.122225516  |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0023788272 |
+| clipfrac               | 0.021575928  |
+| ep_len_mean            | 37           |
+| ep_reward_mean         | 180          |
+| explained_variance     | 0.691        |
+| fps                    | 529          |
+| game_tie               | 0.964        |
+| game_total             | 55           |
+| game_win0              | 0            |
+| game_win1              | 0.0364       |
+| n_updates              | 47           |
+| policy_entropy         | 24.994009    |
+| policy_loss            | -0.009208936 |
+| serial_timesteps       | 48128        |
+| shaping/epdensemean    | 11.7         |
+| shaping/eprewmean_true | 6.06         |
+| shaping/epsparsemean   | 0.364        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 926          |
+| total_timesteps        | 385024       |
+| value_loss             | 0.08530354   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.004750821  |
+| clipfrac               | 0.06124878   |
+| ep_len_mean            | 40.3         |
+| ep_reward_mean         | 161          |
+| explained_variance     | 0.746        |
+| fps                    | 530          |
+| game_tie               | 0.941        |
+| game_total             | 51           |
+| game_win0              | 0            |
+| game_win1              | 0.0588       |
+| n_updates              | 48           |
+| policy_entropy         | 25.014853    |
+| policy_loss            | -0.011398657 |
+| serial_timesteps       | 49152        |
+| shaping/epdensemean    | 11.7         |
+| shaping/eprewmean_true | 6.05         |
+| shaping/epsparsemean   | 0.392        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 942          |
+| total_timesteps        | 393216       |
+| value_loss             | 0.10046293   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0040705083 |
+| clipfrac               | 0.047851562  |
+| ep_len_mean            | 35           |
+| ep_reward_mean         | 131          |
+| explained_variance     | 0.699        |
+| fps                    | 540          |
+| game_tie               | 1            |
+| game_total             | 59           |
+| game_win0              | 0            |
+| game_win1              | 0            |
+| n_updates              | 49           |
+| policy_entropy         | 25.030443    |
+| policy_loss            | -0.009582514 |
+| serial_timesteps       | 50176        |
+| shaping/epdensemean    | 10.8         |
+| shaping/eprewmean_true | 5.42         |
+| shaping/epsparsemean   | 0            |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 957          |
+| total_timesteps        | 401408       |
+| value_loss             | 0.07231206   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0032065343 |
+| clipfrac               | 0.03237915   |
+| ep_len_mean            | 63.2         |
+| ep_reward_mean         | -320         |
+| explained_variance     | 0.782        |
+| fps                    | 549          |
+| game_tie               | 0.875        |
+| game_total             | 32           |
+| game_win0              | 0.0312       |
+| game_win1              | 0.0938       |
+| n_updates              | 50           |
+| policy_entropy         | 25.038223    |
+| policy_loss            | -0.012201111 |
+| serial_timesteps       | 51200        |
+| shaping/epdensemean    | 10.7         |
+| shaping/eprewmean_true | 3.49         |
+| shaping/epsparsemean   | -3.75        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 972          |
+| total_timesteps        | 409600       |
+| value_loss             | 0.31348225   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0031490438 |
+| clipfrac               | 0.03213501   |
+| ep_len_mean            | 50.6         |
+| ep_reward_mean         | 138          |
+| explained_variance     | 0.741        |
+| fps                    | 545          |
+| game_tie               | 0.93         |
+| game_total             | 43           |
+| game_win0              | 0            |
+| game_win1              | 0.0698       |
+| n_updates              | 51           |
+| policy_entropy         | 25.050764    |
+| policy_loss            | -0.011957906 |
+| serial_timesteps       | 52224        |
+| shaping/epdensemean    | 14.1         |
+| shaping/eprewmean_true | 7.28         |
+| shaping/epsparsemean   | 0.465        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 987          |
+| total_timesteps        | 417792       |
+| value_loss             | 0.16599134   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0028437702 |
+| clipfrac               | 0.02746582   |
+| ep_len_mean            | 55.3         |
+| ep_reward_mean         | -87.7        |
+| explained_variance     | 0.775        |
+| fps                    | 519          |
+| game_tie               | 0.972        |
+| game_total             | 36           |
+| game_win0              | 0            |
+| game_win1              | 0.0278       |
+| n_updates              | 52           |
+| policy_entropy         | 25.065136    |
+| policy_loss            | -0.011585205 |
+| serial_timesteps       | 53248        |
+| shaping/epdensemean    | 13.4         |
+| shaping/eprewmean_true | 5.73         |
+| shaping/epsparsemean   | -1.94        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1e+03        |
+| total_timesteps        | 425984       |
+| value_loss             | 0.23577091   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0034063687 |
+| clipfrac               | 0.03555298   |
+| ep_len_mean            | 52.2         |
+| ep_reward_mean         | 50.1         |
+| explained_variance     | 0.761        |
+| fps                    | 524          |
+| game_tie               | 0.921        |
+| game_total             | 38           |
+| game_win0              | 0            |
+| game_win1              | 0.0789       |
+| n_updates              | 53           |
+| policy_entropy         | 25.081614    |
+| policy_loss            | -0.011163456 |
+| serial_timesteps       | 54272        |
+| shaping/epdensemean    | 14.4         |
+| shaping/eprewmean_true | 6.92         |
+| shaping/epsparsemean   | -0.526       |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.02e+03     |
+| total_timesteps        | 434176       |
+| value_loss             | 0.2371432    |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0030409452 |
+| clipfrac               | 0.028411865  |
+| ep_len_mean            | 36.2         |
+| ep_reward_mean         | 157          |
+| explained_variance     | 0.722        |
+| fps                    | 470          |
+| game_tie               | 0.947        |
+| game_total             | 57           |
+| game_win0              | 0            |
+| game_win1              | 0.0526       |
+| n_updates              | 54           |
+| policy_entropy         | 25.098942    |
+| policy_loss            | -0.010011123 |
+| serial_timesteps       | 55296        |
+| shaping/epdensemean    | 11.5         |
+| shaping/eprewmean_true | 6.01         |
+| shaping/epsparsemean   | 0.526        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.03e+03     |
+| total_timesteps        | 442368       |
+| value_loss             | 0.08614896   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0039017217 |
+| clipfrac               | 0.041778564  |
+| ep_len_mean            | 35.4         |
+| ep_reward_mean         | 132          |
+| explained_variance     | 0.785        |
+| fps                    | 483          |
+| game_tie               | 1            |
+| game_total             | 59           |
+| game_win0              | 0            |
+| game_win1              | 0            |
+| n_updates              | 55           |
+| policy_entropy         | 25.118988    |
+| policy_loss            | -0.01002832  |
+| serial_timesteps       | 56320        |
+| shaping/epdensemean    | 11           |
+| shaping/eprewmean_true | 5.51         |
+| shaping/epsparsemean   | 0            |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.05e+03     |
+| total_timesteps        | 450560       |
+| value_loss             | 0.05993802   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.004268393  |
+| clipfrac               | 0.0519104    |
+| ep_len_mean            | 35.4         |
+| ep_reward_mean         | 163          |
+| explained_variance     | 0.799        |
+| fps                    | 495          |
+| game_tie               | 0.949        |
+| game_total             | 59           |
+| game_win0              | 0            |
+| game_win1              | 0.0508       |
+| n_updates              | 56           |
+| policy_entropy         | 25.13604     |
+| policy_loss            | -0.009973676 |
+| serial_timesteps       | 57344        |
+| shaping/epdensemean    | 11.3         |
+| shaping/eprewmean_true | 5.92         |
+| shaping/epsparsemean   | 0.508        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.07e+03     |
+| total_timesteps        | 458752       |
+| value_loss             | 0.06889422   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0031499162 |
+| clipfrac               | 0.03439331   |
+| ep_len_mean            | 57           |
+| ep_reward_mean         | -26.3        |
+| explained_variance     | 0.776        |
+| fps                    | 530          |
+| game_tie               | 0.914        |
+| game_total             | 35           |
+| game_win0              | 0.0286       |
+| game_win1              | 0.0571       |
+| n_updates              | 57           |
+| policy_entropy         | 25.147533    |
+| policy_loss            | -0.012301388 |
+| serial_timesteps       | 58368        |
+| shaping/epdensemean    | 12           |
+| shaping/eprewmean_true | 5.29         |
+| shaping/epsparsemean   | -1.43        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.08e+03     |
+| total_timesteps        | 466944       |
+| value_loss             | 0.23453225   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0025396524 |
+| clipfrac               | 0.022766113  |
+| ep_len_mean            | 40.1         |
+| ep_reward_mean         | 132          |
+| explained_variance     | 0.789        |
+| fps                    | 516          |
+| game_tie               | 1            |
+| game_total             | 50           |
+| game_win0              | 0            |
+| game_win1              | 0            |
+| n_updates              | 58           |
+| policy_entropy         | 25.172274    |
+| policy_loss            | -0.010975258 |
+| serial_timesteps       | 59392        |
+| shaping/epdensemean    | 12.1         |
+| shaping/eprewmean_true | 6.04         |
+| shaping/epsparsemean   | 0            |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.1e+03      |
+| total_timesteps        | 475136       |
+| value_loss             | 0.08291      |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0037853299 |
+| clipfrac               | 0.043151855  |
+| ep_len_mean            | 35           |
+| ep_reward_mean         | 161          |
+| explained_variance     | 0.738        |
+| fps                    | 488          |
+| game_tie               | 0.965        |
+| game_total             | 57           |
+| game_win0              | 0            |
+| game_win1              | 0.0351       |
+| n_updates              | 59           |
+| policy_entropy         | 25.197226    |
+| policy_loss            | -0.010426325 |
+| serial_timesteps       | 60416        |
+| shaping/epdensemean    | 11.1         |
+| shaping/eprewmean_true | 5.71         |
+| shaping/epsparsemean   | 0.351        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.12e+03     |
+| total_timesteps        | 483328       |
+| value_loss             | 0.07059868   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0033199212 |
+| clipfrac               | 0.034576416  |
+| ep_len_mean            | 63.4         |
+| ep_reward_mean         | -303         |
+| explained_variance     | 0.79         |
+| fps                    | 481          |
+| game_tie               | 0.906        |
+| game_total             | 32           |
+| game_win0              | 0.0625       |
+| game_win1              | 0.0312       |
+| n_updates              | 60           |
+| policy_entropy         | 25.22004     |
+| policy_loss            | -0.01349269  |
+| serial_timesteps       | 61440        |
+| shaping/epdensemean    | 11.2         |
+| shaping/eprewmean_true | 3.58         |
+| shaping/epsparsemean   | -4.06        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.13e+03     |
+| total_timesteps        | 491520       |
+| value_loss             | 0.28348786   |
+-----------------------------------------
+------------------------------------------
+| approxkl               | 0.0032136305  |
+| clipfrac               | 0.032409668   |
+| ep_len_mean            | 39.5          |
+| ep_reward_mean         | 205           |
+| explained_variance     | 0.801         |
+| fps                    | 440           |
+| game_tie               | 0.962         |
+| game_total             | 52            |
+| game_win0              | 0             |
+| game_win1              | 0.0385        |
+| n_updates              | 61            |
+| policy_entropy         | 25.23733      |
+| policy_loss            | -0.0115355095 |
+| serial_timesteps       | 62464         |
+| shaping/epdensemean    | 12.5          |
+| shaping/eprewmean_true | 6.44          |
+| shaping/epsparsemean   | 0.385         |
+| shaping/rew_anneal_c   | 0.5           |
+| time_elapsed           | 1.15e+03      |
+| total_timesteps        | 499712        |
+| value_loss             | 0.07941482    |
+------------------------------------------
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201216_033645-default/checkpoint/000000500000'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201216_033645-default/checkpoint/000000500000/vec_normalize.pkl'
+--------------------------------------
+| approxkl           | 0.00072462147 |
+| clipfrac           | 0.0005187988  |
+| ep_len_mean        | 39.6          |
+| ep_reward_mean     | -93.1         |
+| explained_variance | 0.189         |
+| fps                | 423           |
+| n_updates          | 1             |
+| policy_entropy     | 24.127447     |
+| policy_loss        | -0.0074862773 |
+| serial_timesteps   | 1024          |
+| time_elapsed       | 1.53e-05      |
+| total_timesteps    | 8192          |
+| value_loss         | 0.6148567     |
+--------------------------------------
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+-----------------------------------------
+| approxkl               | 0.0037585474 |
+| clipfrac               | 0.038482666  |
+| ep_len_mean            | 58.9         |
+| ep_reward_mean         | -276         |
+| explained_variance     | 0.78         |
+| fps                    | 168          |
+| game_tie               | 0.917        |
+| game_total             | 36           |
+| game_win0              | 0.0278       |
+| game_win1              | 0.0556       |
+| n_updates              | 62           |
+| policy_entropy         | 25.24641     |
+| policy_loss            | -0.012649112 |
+| serial_timesteps       | 63488        |
+| shaping/epdensemean    | 9.98         |
+| shaping/eprewmean_true | 3.19         |
+| shaping/epsparsemean   | -3.61        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.17e+03     |
+| total_timesteps        | 507904       |
+| value_loss             | 0.34550887   |
+-----------------------------------------
+------------------------------------------
+| approxkl               | 0.0027886294  |
+| clipfrac               | 0.027679443   |
+| ep_len_mean            | 54.6          |
+| ep_reward_mean         | -14.5         |
+| explained_variance     | 0.773         |
+| fps                    | 524           |
+| game_tie               | 0.951         |
+| game_total             | 41            |
+| game_win0              | 0             |
+| game_win1              | 0.0488        |
+| n_updates              | 63            |
+| policy_entropy         | 25.261667     |
+| policy_loss            | -0.0117901815 |
+| serial_timesteps       | 64512         |
+| shaping/epdensemean    | 12.5          |
+| shaping/eprewmean_true | 5.62          |
+| shaping/epsparsemean   | -1.22         |
+| shaping/rew_anneal_c   | 0.5           |
+| time_elapsed           | 1.22e+03      |
+| total_timesteps        | 516096        |
+| value_loss             | 0.22920553    |
+------------------------------------------
+-----------------------------------------
+| approxkl               | 0.0025355148 |
+| clipfrac               | 0.023620605  |
+| ep_len_mean            | 43.2         |
+| ep_reward_mean         | 182          |
+| explained_variance     | 0.761        |
+| fps                    | 501          |
+| game_tie               | 0.96         |
+| game_total             | 50           |
+| game_win0              | 0            |
+| game_win1              | 0.04         |
+| n_updates              | 64           |
+| policy_entropy         | 25.282677    |
+| policy_loss            | -0.011864715 |
+| serial_timesteps       | 65536        |
+| shaping/epdensemean    | 13.1         |
+| shaping/eprewmean_true | 6.77         |
+| shaping/epsparsemean   | 0.4          |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.23e+03     |
+| total_timesteps        | 524288       |
+| value_loss             | 0.120997235  |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0035600127 |
+| clipfrac               | 0.03970337   |
+| ep_len_mean            | 35.7         |
+| ep_reward_mean         | 163          |
+| explained_variance     | 0.751        |
+| fps                    | 535          |
+| game_tie               | 0.93         |
+| game_total             | 57           |
+| game_win0              | 0            |
+| game_win1              | 0.0702       |
+| n_updates              | 65           |
+| policy_entropy         | 25.309433    |
+| policy_loss            | -0.010084804 |
+| serial_timesteps       | 66560        |
+| shaping/epdensemean    | 11.5         |
+| shaping/eprewmean_true | 6.09         |
+| shaping/epsparsemean   | 0.702        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.25e+03     |
+| total_timesteps        | 532480       |
+| value_loss             | 0.07364918   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.004699676  |
+| clipfrac               | 0.056274414  |
+| ep_len_mean            | 50.7         |
+| ep_reward_mean         | 52.8         |
+| explained_variance     | 0.792        |
+| fps                    | 504          |
+| game_tie               | 0.975        |
+| game_total             | 40           |
+| game_win0              | 0            |
+| game_win1              | 0.025        |
+| n_updates              | 66           |
+| policy_entropy         | 25.338854    |
+| policy_loss            | -0.013387892 |
+| serial_timesteps       | 67584        |
+| shaping/epdensemean    | 12.7         |
+| shaping/eprewmean_true | 6.23         |
+| shaping/epsparsemean   | -0.25        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.26e+03     |
+| total_timesteps        | 540672       |
+| value_loss             | 0.19776432   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0026363549 |
+| clipfrac               | 0.02267456   |
+| ep_len_mean            | 35.3         |
+| ep_reward_mean         | 131          |
+| explained_variance     | 0.843        |
+| fps                    | 551          |
+| game_tie               | 0.982        |
+| game_total             | 57           |
+| game_win0              | 0            |
+| game_win1              | 0.0175       |
+| n_updates              | 67           |
+| policy_entropy         | 25.36069     |
+| policy_loss            | -0.01095759  |
+| serial_timesteps       | 68608        |
+| shaping/epdensemean    | 11           |
+| shaping/eprewmean_true | 5.59         |
+| shaping/epsparsemean   | 0.175        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.28e+03     |
+| total_timesteps        | 548864       |
+| value_loss             | 0.051701903  |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0031222652 |
+| clipfrac               | 0.03137207   |
+| ep_len_mean            | 37           |
+| ep_reward_mean         | 161          |
+| explained_variance     | 0.794        |
+| fps                    | 520          |
+| game_tie               | 0.982        |
+| game_total             | 55           |
+| game_win0              | 0            |
+| game_win1              | 0.0182       |
+| n_updates              | 68           |
+| policy_entropy         | 25.379059    |
+| policy_loss            | -0.010414448 |
+| serial_timesteps       | 69632        |
+| shaping/epdensemean    | 11.6         |
+| shaping/eprewmean_true | 5.91         |
+| shaping/epsparsemean   | 0.182        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.29e+03     |
+| total_timesteps        | 557056       |
+| value_loss             | 0.062034458  |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0026102376 |
+| clipfrac               | 0.022369385  |
+| ep_len_mean            | 55.6         |
+| ep_reward_mean         | -187         |
+| explained_variance     | 0.785        |
+| fps                    | 515          |
+| game_tie               | 0.921        |
+| game_total             | 38           |
+| game_win0              | 0.0263       |
+| game_win1              | 0.0526       |
+| n_updates              | 69           |
+| policy_entropy         | 25.393484    |
+| policy_loss            | -0.012087781 |
+| serial_timesteps       | 70656        |
+| shaping/epdensemean    | 10.5         |
+| shaping/eprewmean_true | 4.19         |
+| shaping/epsparsemean   | -2.11        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.31e+03     |
+| total_timesteps        | 565248       |
+| value_loss             | 0.31751776   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0031766323 |
+| clipfrac               | 0.032440186  |
+| ep_len_mean            | 38.9         |
+| ep_reward_mean         | 151          |
+| explained_variance     | 0.798        |
+| fps                    | 500          |
+| game_tie               | 0.944        |
+| game_total             | 54           |
+| game_win0              | 0            |
+| game_win1              | 0.0556       |
+| n_updates              | 70           |
+| policy_entropy         | 25.406734    |
+| policy_loss            | -0.013056874 |
+| serial_timesteps       | 71680        |
+| shaping/epdensemean    | 12.2         |
+| shaping/eprewmean_true | 6.37         |
+| shaping/epsparsemean   | 0.556        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.33e+03     |
+| total_timesteps        | 573440       |
+| value_loss             | 0.07417917   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.003773981  |
+| clipfrac               | 0.040771484  |
+| ep_len_mean            | 51.5         |
+| ep_reward_mean         | -83.8        |
+| explained_variance     | 0.777        |
+| fps                    | 510          |
+| game_tie               | 0.975        |
+| game_total             | 40           |
+| game_win0              | 0.025        |
+| game_win1              | 0            |
+| n_updates              | 71           |
+| policy_entropy         | 25.413809    |
+| policy_loss            | -0.013226066 |
+| serial_timesteps       | 72704        |
+| shaping/epdensemean    | 12.2         |
+| shaping/eprewmean_true | 5.23         |
+| shaping/epsparsemean   | -1.75        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.34e+03     |
+| total_timesteps        | 581632       |
+| value_loss             | 0.25297618   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.003682224  |
+| clipfrac               | 0.04083252   |
+| ep_len_mean            | 35.4         |
+| ep_reward_mean         | 182          |
+| explained_variance     | 0.793        |
+| fps                    | 483          |
+| game_tie               | 0.895        |
+| game_total             | 57           |
+| game_win0              | 0            |
+| game_win1              | 0.105        |
+| n_updates              | 72           |
+| policy_entropy         | 25.427498    |
+| policy_loss            | -0.011876021 |
+| serial_timesteps       | 73728        |
+| shaping/epdensemean    | 11.5         |
+| shaping/eprewmean_true | 6.28         |
+| shaping/epsparsemean   | 1.05         |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.36e+03     |
+| total_timesteps        | 589824       |
+| value_loss             | 0.06459763   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.003293348  |
+| clipfrac               | 0.03250122   |
+| ep_len_mean            | 50.2         |
+| ep_reward_mean         | 128          |
+| explained_variance     | 0.754        |
+| fps                    | 521          |
+| game_tie               | 0.927        |
+| game_total             | 41           |
+| game_win0              | 0.0244       |
+| game_win1              | 0.0488       |
+| n_updates              | 73           |
+| policy_entropy         | 25.44591     |
+| policy_loss            | -0.011348012 |
+| serial_timesteps       | 74752        |
+| shaping/epdensemean    | 14.3         |
+| shaping/eprewmean_true | 7.15         |
+| shaping/epsparsemean   | 0            |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.38e+03     |
+| total_timesteps        | 598016       |
+| value_loss             | 0.16067886   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0036408452 |
+| clipfrac               | 0.03967285   |
+| ep_len_mean            | 36.2         |
+| ep_reward_mean         | 166          |
+| explained_variance     | 0.824        |
+| fps                    | 530          |
+| game_tie               | 0.929        |
+| game_total             | 56           |
+| game_win0              | 0            |
+| game_win1              | 0.0714       |
+| n_updates              | 74           |
+| policy_entropy         | 25.459972    |
+| policy_loss            | -0.011955939 |
+| serial_timesteps       | 75776        |
+| shaping/epdensemean    | 11.5         |
+| shaping/eprewmean_true | 6.11         |
+| shaping/epsparsemean   | 0.714        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.39e+03     |
+| total_timesteps        | 606208       |
+| value_loss             | 0.06518116   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.003906548  |
+| clipfrac               | 0.04348755   |
+| ep_len_mean            | 35.1         |
+| ep_reward_mean         | 147          |
+| explained_variance     | 0.843        |
+| fps                    | 545          |
+| game_tie               | 0.949        |
+| game_total             | 59           |
+| game_win0              | 0            |
+| game_win1              | 0.0508       |
+| n_updates              | 75           |
+| policy_entropy         | 25.473557    |
+| policy_loss            | -0.009934643 |
+| serial_timesteps       | 76800        |
+| shaping/epdensemean    | 10.9         |
+| shaping/eprewmean_true | 5.68         |
+| shaping/epsparsemean   | 0.508        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.41e+03     |
+| total_timesteps        | 614400       |
+| value_loss             | 0.047444075  |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.003974078  |
+| clipfrac               | 0.044189453  |
+| ep_len_mean            | 36.2         |
+| ep_reward_mean         | 153          |
+| explained_variance     | 0.756        |
+| fps                    | 438          |
+| game_tie               | 0.946        |
+| game_total             | 56           |
+| game_win0              | 0            |
+| game_win1              | 0.0536       |
+| n_updates              | 76           |
+| policy_entropy         | 25.493221    |
+| policy_loss            | -0.012020097 |
+| serial_timesteps       | 77824        |
+| shaping/epdensemean    | 11.8         |
+| shaping/eprewmean_true | 6.15         |
+| shaping/epsparsemean   | 0.536        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.42e+03     |
+| total_timesteps        | 622592       |
+| value_loss             | 0.06919298   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0032387273 |
+| clipfrac               | 0.031799316  |
+| ep_len_mean            | 36           |
+| ep_reward_mean         | 184          |
+| explained_variance     | 0.848        |
+| fps                    | 472          |
+| game_tie               | 0.897        |
+| game_total             | 58           |
+| game_win0              | 0            |
+| game_win1              | 0.103        |
+| n_updates              | 77           |
+| policy_entropy         | 25.512821    |
+| policy_loss            | -0.011008452 |
+| serial_timesteps       | 78848        |
+| shaping/epdensemean    | 11.5         |
+| shaping/eprewmean_true | 6.29         |
+| shaping/epsparsemean   | 1.03         |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.44e+03     |
+| total_timesteps        | 630784       |
+| value_loss             | 0.044443518  |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0029341434 |
+| clipfrac               | 0.02810669   |
+| ep_len_mean            | 56.3         |
+| ep_reward_mean         | -58.2        |
+| explained_variance     | 0.786        |
+| fps                    | 533          |
+| game_tie               | 0.972        |
+| game_total             | 36           |
+| game_win0              | 0            |
+| game_win1              | 0.0278       |
+| n_updates              | 78           |
+| policy_entropy         | 25.53125     |
+| policy_loss            | -0.012596078 |
+| serial_timesteps       | 79872        |
+| shaping/epdensemean    | 11.4         |
+| shaping/eprewmean_true | 4.47         |
+| shaping/epsparsemean   | -2.5         |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.46e+03     |
+| total_timesteps        | 638976       |
+| value_loss             | 0.23291409   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0043336367 |
+| clipfrac               | 0.051208496  |
+| ep_len_mean            | 54.7         |
+| ep_reward_mean         | 7.54         |
+| explained_variance     | 0.769        |
+| fps                    | 556          |
+| game_tie               | 0.865        |
+| game_total             | 37           |
+| game_win0              | 0.0541       |
+| game_win1              | 0.0811       |
+| n_updates              | 79           |
+| policy_entropy         | 25.55109     |
+| policy_loss            | -0.014625765 |
+| serial_timesteps       | 80896        |
+| shaping/epdensemean    | 13.7         |
+| shaping/eprewmean_true | 6.42         |
+| shaping/epsparsemean   | -0.811       |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.47e+03     |
+| total_timesteps        | 647168       |
+| value_loss             | 0.2534297    |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0028184638 |
+| clipfrac               | 0.027893066  |
+| ep_len_mean            | 36.8         |
+| ep_reward_mean         | 145          |
+| explained_variance     | 0.844        |
+| fps                    | 573          |
+| game_tie               | 0.946        |
+| game_total             | 56           |
+| game_win0              | 0            |
+| game_win1              | 0.0536       |
+| n_updates              | 80           |
+| policy_entropy         | 25.5752      |
+| policy_loss            | -0.010924719 |
+| serial_timesteps       | 81920        |
+| shaping/epdensemean    | 11.8         |
+| shaping/eprewmean_true | 6.19         |
+| shaping/epsparsemean   | 0.536        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.49e+03     |
+| total_timesteps        | 655360       |
+| value_loss             | 0.045406714  |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0024127008 |
+| clipfrac               | 0.021820068  |
+| ep_len_mean            | 50.7         |
+| ep_reward_mean         | 130          |
+| explained_variance     | 0.803        |
+| fps                    | 564          |
+| game_tie               | 1            |
+| game_total             | 41           |
+| game_win0              | 0            |
+| game_win1              | 0            |
+| n_updates              | 81           |
+| policy_entropy         | 25.594456    |
+| policy_loss            | -0.012071416 |
+| serial_timesteps       | 82944        |
+| shaping/epdensemean    | 13.6         |
+| shaping/eprewmean_true | 6.53         |
+| shaping/epsparsemean   | -0.488       |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.5e+03      |
+| total_timesteps        | 663552       |
+| value_loss             | 0.1480082    |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.004966274  |
+| clipfrac               | 0.06375122   |
+| ep_len_mean            | 41.2         |
+| ep_reward_mean         | 170          |
+| explained_variance     | 0.817        |
+| fps                    | 519          |
+| game_tie               | 0.979        |
+| game_total             | 47           |
+| game_win0              | 0            |
+| game_win1              | 0.0213       |
+| n_updates              | 82           |
+| policy_entropy         | 25.615051    |
+| policy_loss            | -0.014011659 |
+| serial_timesteps       | 83968        |
+| shaping/epdensemean    | 12.9         |
+| shaping/eprewmean_true | 6.54         |
+| shaping/epsparsemean   | 0.213        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.52e+03     |
+| total_timesteps        | 671744       |
+| value_loss             | 0.07506135   |
+-----------------------------------------
+----------------------------------------
+| approxkl               | 0.003347144 |
+| clipfrac               | 0.034942627 |
+| ep_len_mean            | 43.6        |
+| ep_reward_mean         | 138         |
+| explained_variance     | 0.818       |
+| fps                    | 553         |
+| game_tie               | 0.958       |
+| game_total             | 48          |
+| game_win0              | 0           |
+| game_win1              | 0.0417      |
+| n_updates              | 83          |
+| policy_entropy         | 25.637753   |
+| policy_loss            | -0.01331008 |
+| serial_timesteps       | 84992       |
+| shaping/epdensemean    | 13.2        |
+| shaping/eprewmean_true | 6.59        |
+| shaping/epsparsemean   | 0           |
+| shaping/rew_anneal_c   | 0.5         |
+| time_elapsed           | 1.53e+03    |
+| total_timesteps        | 679936      |
+| value_loss             | 0.09287795  |
+----------------------------------------
+-----------------------------------------
+| approxkl               | 0.00399476   |
+| clipfrac               | 0.044158936  |
+| ep_len_mean            | 40.2         |
+| ep_reward_mean         | 176          |
+| explained_variance     | 0.823        |
+| fps                    | 563          |
+| game_tie               | 0.898        |
+| game_total             | 49           |
+| game_win0              | 0            |
+| game_win1              | 0.102        |
+| n_updates              | 84           |
+| policy_entropy         | 25.657764    |
+| policy_loss            | -0.012437341 |
+| serial_timesteps       | 86016        |
+| shaping/epdensemean    | 12.6         |
+| shaping/eprewmean_true | 6.72         |
+| shaping/epsparsemean   | 0.816        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.55e+03     |
+| total_timesteps        | 688128       |
+| value_loss             | 0.06727957   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0026673293 |
+| clipfrac               | 0.0234375    |
+| ep_len_mean            | 50.4         |
+| ep_reward_mean         | -134         |
+| explained_variance     | 0.778        |
+| fps                    | 534          |
+| game_tie               | 0.927        |
+| game_total             | 41           |
+| game_win0              | 0.0244       |
+| game_win1              | 0.0488       |
+| n_updates              | 85           |
+| policy_entropy         | 25.67913     |
+| policy_loss            | -0.011715343 |
+| serial_timesteps       | 87040        |
+| shaping/epdensemean    | 10.9         |
+| shaping/eprewmean_true | 4.23         |
+| shaping/epsparsemean   | -2.44        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.56e+03     |
+| total_timesteps        | 696320       |
+| value_loss             | 0.2760809    |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0039916052 |
+| clipfrac               | 0.0440979    |
+| ep_len_mean            | 35.3         |
+| ep_reward_mean         | 159          |
+| explained_variance     | 0.817        |
+| fps                    | 534          |
+| game_tie               | 0.948        |
+| game_total             | 58           |
+| game_win0              | 0            |
+| game_win1              | 0.0517       |
+| n_updates              | 86           |
+| policy_entropy         | 25.701347    |
+| policy_loss            | -0.011439068 |
+| serial_timesteps       | 88064        |
+| shaping/epdensemean    | 10.7         |
+| shaping/eprewmean_true | 5.62         |
+| shaping/epsparsemean   | 0.517        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.58e+03     |
+| total_timesteps        | 704512       |
+| value_loss             | 0.05907924   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0033236407 |
+| clipfrac               | 0.033935547  |
+| ep_len_mean            | 39.2         |
+| ep_reward_mean         | 198          |
+| explained_variance     | 0.832        |
+| fps                    | 555          |
+| game_tie               | 0.943        |
+| game_total             | 53           |
+| game_win0              | 0            |
+| game_win1              | 0.0566       |
+| n_updates              | 87           |
+| policy_entropy         | 25.715279    |
+| policy_loss            | -0.011598291 |
+| serial_timesteps       | 89088        |
+| shaping/epdensemean    | 12.7         |
+| shaping/eprewmean_true | 6.61         |
+| shaping/epsparsemean   | 0.566        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.59e+03     |
+| total_timesteps        | 712704       |
+| value_loss             | 0.05947527   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.003919653  |
+| clipfrac               | 0.046203613  |
+| ep_len_mean            | 36.9         |
+| ep_reward_mean         | 194          |
+| explained_variance     | 0.811        |
+| fps                    | 553          |
+| game_tie               | 0.911        |
+| game_total             | 56           |
+| game_win0              | 0            |
+| game_win1              | 0.0893       |
+| n_updates              | 88           |
+| policy_entropy         | 25.728516    |
+| policy_loss            | -0.011625593 |
+| serial_timesteps       | 90112        |
+| shaping/epdensemean    | 11.6         |
+| shaping/eprewmean_true | 6.26         |
+| shaping/epsparsemean   | 0.893        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.61e+03     |
+| total_timesteps        | 720896       |
+| value_loss             | 0.05637249   |
+-----------------------------------------
+------------------------------------------
+| approxkl               | 0.0038152444  |
+| clipfrac               | 0.043395996   |
+| ep_len_mean            | 36.5          |
+| ep_reward_mean         | 164           |
+| explained_variance     | 0.818         |
+| fps                    | 560           |
+| game_tie               | 0.964         |
+| game_total             | 56            |
+| game_win0              | 0             |
+| game_win1              | 0.0357        |
+| n_updates              | 89            |
+| policy_entropy         | 25.743683     |
+| policy_loss            | -0.0116641605 |
+| serial_timesteps       | 91136         |
+| shaping/epdensemean    | 11.6          |
+| shaping/eprewmean_true | 5.97          |
+| shaping/epsparsemean   | 0.357         |
+| shaping/rew_anneal_c   | 0.5           |
+| time_elapsed           | 1.62e+03      |
+| total_timesteps        | 729088        |
+| value_loss             | 0.056194875   |
+------------------------------------------
+-----------------------------------------
+| approxkl               | 0.0035830261 |
+| clipfrac               | 0.037872314  |
+| ep_len_mean            | 37.3         |
+| ep_reward_mean         | 200          |
+| explained_variance     | 0.826        |
+| fps                    | 484          |
+| game_tie               | 0.945        |
+| game_total             | 55           |
+| game_win0              | 0            |
+| game_win1              | 0.0545       |
+| n_updates              | 90           |
+| policy_entropy         | 25.7576      |
+| policy_loss            | -0.011646354 |
+| serial_timesteps       | 92160        |
+| shaping/epdensemean    | 12.2         |
+| shaping/eprewmean_true | 6.37         |
+| shaping/epsparsemean   | 0.545        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.64e+03     |
+| total_timesteps        | 737280       |
+| value_loss             | 0.04853781   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0034888554 |
+| clipfrac               | 0.035888672  |
+| ep_len_mean            | 60.8         |
+| ep_reward_mean         | -222         |
+| explained_variance     | 0.775        |
+| fps                    | 403          |
+| game_tie               | 0.971        |
+| game_total             | 35           |
+| game_win0              | 0            |
+| game_win1              | 0.0286       |
+| n_updates              | 91           |
+| policy_entropy         | 25.77662     |
+| policy_loss            | -0.014111851 |
+| serial_timesteps       | 93184        |
+| shaping/epdensemean    | 10.8         |
+| shaping/eprewmean_true | 3.95         |
+| shaping/epsparsemean   | -2.86        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.65e+03     |
+| total_timesteps        | 745472       |
+| value_loss             | 0.33743456   |
+-----------------------------------------
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201216_033645-default/checkpoint/000000750000'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201216_033645-default/checkpoint/000000750000/vec_normalize.pkl'
+-----------------------------------------
+| approxkl               | 0.0009698487 |
+| clipfrac               | 0.0028381348 |
+| ep_len_mean            | 35.2         |
+| ep_reward_mean         | 51.5         |
+| explained_variance     | -0.208       |
+| fps                    | 361          |
+| game_tie               | 0.965        |
+| game_total             | 57           |
+| game_win0              | 0            |
+| game_win1              | 0.0351       |
+| n_updates              | 1            |
+| policy_entropy         | 24.133125    |
+| policy_loss            | -0.007867137 |
+| serial_timesteps       | 1024         |
+| shaping/epdensemean    | 11.3         |
+| shaping/eprewmean_true | 5.81         |
+| shaping/epsparsemean   | 0.351        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.72e-05     |
+| total_timesteps        | 8192         |
+| value_loss             | 0.76480687   |
+-----------------------------------------
+--------------------------------------
+| approxkl           | 0.00054202415 |
+| clipfrac           | 0.00048828125 |
+| ep_len_mean        | 36            |
+| ep_reward_mean     | 56.3          |
+| explained_variance | 0.276         |
+| fps                | 434           |
+| n_updates          | 2             |
+| policy_entropy     | 24.153807     |
+| policy_loss        | -0.003558056  |
+| serial_timesteps   | 2048          |
+| time_elapsed       | 22.7          |
+| total_timesteps    | 16384         |
+| value_loss         | 0.47535247    |
+--------------------------------------
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+-----------------------------------------
+| approxkl               | 0.0033638612 |
+| clipfrac               | 0.037078857  |
+| ep_len_mean            | 45.7         |
+| ep_reward_mean         | -80          |
+| explained_variance     | 0.773        |
+| fps                    | 111          |
+| game_tie               | 1            |
+| game_total             | 42           |
+| game_win0              | 0            |
+| game_win1              | 0            |
+| n_updates              | 92           |
+| policy_entropy         | 25.793627    |
+| policy_loss            | -0.012095814 |
+| serial_timesteps       | 94208        |
+| shaping/epdensemean    | 8.82         |
+| shaping/eprewmean_true | 2.86         |
+| shaping/epsparsemean   | -3.1         |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.67e+03     |
+| total_timesteps        | 753664       |
+| value_loss             | 0.2094032    |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.00336181   |
+| clipfrac               | 0.035827637  |
+| ep_len_mean            | 37.1         |
+| ep_reward_mean         | 180          |
+| explained_variance     | 0.838        |
+| fps                    | 487          |
+| game_tie               | 0.964        |
+| game_total             | 56           |
+| game_win0              | 0            |
+| game_win1              | 0.0357       |
+| n_updates              | 93           |
+| policy_entropy         | 25.81957     |
+| policy_loss            | -0.011834349 |
+| serial_timesteps       | 95232        |
+| shaping/epdensemean    | 11.8         |
+| shaping/eprewmean_true | 6.06         |
+| shaping/epsparsemean   | 0.357        |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.75e+03     |
+| total_timesteps        | 761856       |
+| value_loss             | 0.05910125   |
+-----------------------------------------
+-----------------------------------------
+| approxkl               | 0.0030503967 |
+| clipfrac               | 0.030059814  |
+| ep_len_mean            | 35.5         |
+| ep_reward_mean         | 181          |
+| explained_variance     | 0.817        |
+| fps                    | 515          |
+| game_tie               | 0.931        |
+| game_total             | 58           |
+| game_win0              | 0            |
+| game_win1              | 0.069        |
+| n_updates              | 94           |
+| policy_entropy         | 25.84724     |
+| policy_loss            | -0.012427843 |
+| serial_timesteps       | 96256        |
+| shaping/epdensemean    | 10.9         |
+| shaping/eprewmean_true | 5.81         |
+| shaping/epsparsemean   | 0.69         |
+| shaping/rew_anneal_c   | 0.5          |
+| time_elapsed           | 1.76e+03     |
+| total_timesteps        | 770048       |
+| value_loss             | 0.05181108   |
+-----------------------------------------

@@ -6,31 +6,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import disc0 from './disc_00.pdf';
 import disc0wk from './disc00.pdf';
 import disc0wksol from './disc00_sol.pdf';
-import disc1wk from './disc01.pdf';
-import disc1wksol from './disc01_sol.pdf';
-import disc02 from './disc_02.pdf';
-import disc2wk from './disc02.pdf';
-import disc2wksol from './disc02_sol.pdf';
-import disc04 from './disc_04.pdf';
-import disc4wk from './disc04.pdf';
-import disc4wksol from './disc04_sol.pdf';
-import disc5wk from './disc05.pdf';
-import disc5wksol from './disc05_sol.pdf';
-import disc06 from './disc_06.pdf';
-import disc6wk from './disc06.pdf';
-import disc6wksol from './disc06_sol.pdf';
-import disc8wk from './disc08.pdf';
-import disc8wksol from './disc08_sol.pdf';
-import disc9wk from './disc09.pdf';
-import disc9wksol from './disc09_sol.pdf';
-import disc10wk from './disc10.pdf';
-import disc10wksol from './disc10_sol.pdf';
-import disc11wk from './disc11.pdf';
-import disc11wksol from './disc11_sol.pdf';
-import disc12wk from './disc12.pdf';
-import disc12wksol from './disc12_sol.pdf';
-import disc13wk from './disc13.pdf';
-import disc13wksol from './disc13_sol.pdf';
+
 
 class Teaching extends React.Component{
     render() {
@@ -38,23 +14,20 @@ class Teaching extends React.Component{
             <Container>
                 <Row className="justify-content-md-center">
                     <Col md={10}>
-                        <h3 style={{color:"#047BFE"}}>CS61A Summer 2020</h3>
+                        <h3 style={{color:"#047BFE"}}>CS61A Fall 2021</h3>
                         <p></p>
                     </Col>
                 </Row>
                 <Row className="justify-content-md-center">
                     <Col md={5}>
-                           <p> <b>Discussion:</b> Wed/Fri 7:30AM - 9:00AM PDT</p>
-                           <p> <b>Office Hours:</b> TBD </p>
-                           <p><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSe051PwRPnKIJ9zPWQhA-6VBW3PgnyunvbA6cT75uswLXWJPQ/viewform">Anonymous Feedback Form</a></b></p>
+                        <p> <b>Discussion:</b> Wed 6:30PM - 8:00PM PDT</p>
+                        <p> <b>Lab:</b> Wed 9:30AM - 11:00AM PDT</p>
+                        <p><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSe051PwRPnKIJ9zPWQhA-6VBW3PgnyunvbA6cT75uswLXWJPQ/viewform">Anonymous Feedback Form</a></b></p>
                     </Col>
                     <Col md={5}>
                         <ul>
                             <li>
                                 <p> Feel free to contact me at amanshah2711@berkeley.edu with any questions about cs61a, math, life at Berkeley, or anything else.</p>
-                            </li>
-                            <li>
-                                Additional resources or helpful links located at the bottom of the page.
                             </li>
                         </ul>
 
@@ -77,95 +50,11 @@ class Teaching extends React.Component{
                                         <tr>
                                             <td>0</td>
                                             <td>Wed 6/22</td>
-                                            <td>Welcome to 61A! <Badge variant='primary'> <a href={disc0} style={{color:"white"}} target="_blank">slides</a></Badge></td>
-                                            <td><a href={disc0wk} style={{color:"black"}} target="_blank">Disc 00</a> <Badge variant='primary'><a href={disc0wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
-                                        </tr>
-                                        <tr>
-                                            <td>1</td>
-                                            <td>Fri 6/26</td>
-                                            <td>Environment Diagrams, Control, Self Reference <Badge variant='primary'><a style={{color:"white"}} target="_blank" href="https://docs.google.com/presentation/d/12aLgjG9QOOuC1B-p0CPiWLhA9qrtEH2G3OvMJEUDctY/edit?usp=sharing">slides</a></Badge></td>
-                                            <td><a href={disc1wk} style={{color:"black"}} target="_blank">Disc 01</a> <Badge variant='primary'><a href={disc1wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
-                                        </tr>
-                                        <tr>
-                                            <td>2</td>
-                                            <td>Wed 7/1</td>
-                                            <td>Higher-Order Functions <Badge variant='primary'><a href={disc02} style={{color:"white"}} target="_blank">slides </a> </Badge><Badge variant="primary"><a href="https://berkeley.zoom.us/rec/share/x8BJI4jPp35OUon870fvWqN_F7zLT6a81iUbq6AMzEwiLHgrnx0tCZ9hdwC4kCYi?startTime=1593614897000" style={{color:"white"}} target="_blank"> Video</a></Badge></td>
-                                            <td><a href={disc2wk} style={{color:"black"}} target="_blank">Disc 02</a> <Badge variant='primary'><a href={disc2wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
-                                        </tr>
-                                        <tr>
-                                            <td>3</td>
-                                            <td>Fri 7/3</td>
-                                            <td>N/A (Diagnostic Quiz)</td>
-                                            <td></td>
-                                        </tr>
-                                        <tr>
-                                            <td>4</td>
-                                            <td>Wed 7/8</td>
-                                            <td>Recursion, Tree Recursion, Lists <Badge variant='primary'><a href={disc04} style={{color:"white"}} target="_blank">slides </a> </Badge></td>
-                                            <td><a href={disc4wk} style={{color:"black"}} target="_blank">Disc 04</a> <Badge variant='primary'><a href={disc4wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
-                                        </tr>
-                                        <tr>
-                                            <td>5</td>
-                                            <td>Fri 7/10</td>
-                                            <td>Trees, Mutability <Badge variant='primary'><a href="https://docs.google.com/presentation/d/1kwQfTQhQ9OFIjzVjR2L9VwWoCDX2SMs-pjobFJkbZUI/edit?usp=sharing" style={{color:"white"}} target="_blank">slides </a> </Badge></td>
-                                            <td><a href={disc5wk} style={{color:"black"}} target="_blank">Disc 05</a> <Badge variant='primary'><a href={disc5wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
-                                        </tr>
-                                        <tr>
-                                            <td>6</td>
-                                            <td>Wed 7/15</td>
-                                            <td>Nonlocal, Midterm Review<Badge variant='primary'><a href={disc06} style={{color:"white"}} target="_blank">slides </a> </Badge></td>
-                                            <td><a href={disc6wk} style={{color:"black"}} target="_blank">Disc 06</a> <Badge variant='primary'><a href={disc6wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
-                                        </tr>
-                                        <tr>
-                                            <td>7</td>
-                                            <td>Fri 7/17</td>
-                                            <td>N/A<Badge variant='primary'>slides</Badge></td>
-                                            <td>Disc 07 <Badge variant='primary'>solution</Badge></td>
-                                        </tr>
-                                        <tr>
-                                            <td>8</td>
-                                            <td>Wed 7/22</td>
-                                            <td>Object Oriented Programming, Iterators, Generators<Badge variant='primary'><a href="https://docs.google.com/presentation/d/1d0S9HIjt_8qyqwVvcxurWLPyclsl5kk-n7ZtpZ-rH4Y/edit?usp=sharing" style={{color:"white"}} target="_blank">slides </a> </Badge></td>
-                                            <td><a href={disc8wk} style={{color:"black"}} target="_blank">Disc 08</a> <Badge variant='primary'><a href={disc8wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
-                                        </tr>
-                                        <tr>
-                                            <td>9</td>
-                                            <td>Fri 7/24</td>
-                                            <td>Linked Lists, Trees<Badge variant='primary'><a href="https://docs.google.com/presentation/d/1ffLi23rGndlrSj2GxK5tglujeeUi6a2BcG-kOmoxoc0/edit?usp=sharing" style={{color:"white"}} target="_blank">slides </a> </Badge></td>
-                                            <td><a href={disc9wk} style={{color:"black"}} target="_blank">Disc 09</a> <Badge variant='primary'><a href={disc9wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
-                                        </tr>
-                                        <tr>
-                                            <td>10</td>
-                                            <td>Wed 7/29</td>
-                                            <td>Scheme, Scheme Lists<Badge variant='primary'><a href="https://docs.google.com/presentation/d/1-OYz1qegJkJS2ERkOWQM6_oSBhAlNyva6IuJIbUgjzw/edit?usp=sharing" style={{color:"white"}} target="_blank">slides </a> </Badge></td>
-                                            <td><a href={disc10wk} style={{color:"black"}} target="_blank">Disc 10</a> <Badge variant='primary'><a href={disc10wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
-                                        </tr>
-                                        <tr>
-                                            <td>11</td>
-                                            <td>Fri 7/31</td>
-                                            <td>Tail Recursion, Macros<Badge variant='primary'><a href="https://docs.google.com/presentation/d/1fFppc8_Zr55BfkUHKM6c0JvyfkabirfHroaTlARfw1k/edit?usp=sharing" style={{color:"white"}} target="_blank">slides </a> </Badge></td>
-                                            <td><a href={disc11wk} style={{color:"black"}} target="_blank">Disc 11</a> <Badge variant='primary'><a href={disc11wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
-                                        </tr>
-                                        <tr>
-                                            <td>12</td>
-                                            <td>Wed 8/5</td>
-                                            <td>Streams<Badge variant='primary'><a href="https://docs.google.com/presentation/d/1JuR0MXZTRMrbxZgrIucmD3SKWX7w4wJ6L29uc6ER6e0/edit?usp=sharing" style={{color:"white"}} target="_blank">slides </a> </Badge></td>
-                                            <td><a href={disc12wk} style={{color:"black"}} target="_blank">Disc 12</a> <Badge variant='primary'><a href={disc12wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
-                                        </tr>
-                                        <tr>
-                                            <td>13</td>
-                                            <td>Fri 8/7</td>
-                                            <td>SQL</td>
-                                            <td><a href={disc13wk} style={{color:"black"}} target="_blank">Disc 13</a> <Badge variant='primary'><a href={disc13wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
-                                        </tr>
-                                        <tr>
-                                            <td>14</td>
-                                            <td>Wed 8/12</td>
-                                            <td>Final Review <Badge variant='primary'>slides</Badge></td>
-                                            <td>Disc 14 <Badge variant='primary'>solution</Badge></td>
+                                            <td>Welcome to 61A! <br/><Badge variant='primary'> <a href={disc0} style={{color:"white"}} target="_blank">slides</a></Badge></td>
+                                            <td><a href={disc0wk} style={{color:"black"}} target="_blank">Disc 00</a> <br/><Badge variant='primary'><a href={disc0wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
                                         </tr>
                                     </tbody>
-                                   
+
                                 </Table>
                     </Col>
                 </Row>
@@ -173,6 +62,7 @@ class Teaching extends React.Component{
                 <Row className="justify-content-md-center">
                     <Col md={10}>
                     <h3 style={{color:"#047BFE"}}>Additional Resources</h3>
+                    Content might be added here throughout the course of the semester.
                     </Col>
                 </Row>
             </Container>

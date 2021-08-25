@@ -1,0 +1,142 @@
+INFO - score - Running command 'score_agent'
+INFO - score - Started run with ID "44"
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201216_080938-default/checkpoint/000000250000'
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/misc_util.py:26: The name tf.set_random_seed is deprecated. Please use tf.compat.v1.set_random_seed instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/misc_util.py:26: The name tf.set_random_seed is deprecated. Please use tf.compat.v1.set_random_seed instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/tf_util.py:191: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/tf_util.py:191: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/policies.py:116: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/policies.py:116: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/input.py:25: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/input.py:25: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/policies.py:561: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/policies.py:561: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/python/layers/core.py:332: Layer.apply (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/python/layers/core.py:332: Layer.apply (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/tf_layers.py:123: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/tf_layers.py:123: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/distributions.py:418: The name tf.random_normal is deprecated. Please use tf.random.normal instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/distributions.py:418: The name tf.random_normal is deprecated. Please use tf.random.normal instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:190: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:190: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:198: The name tf.trainable_variables is deprecated. Please use tf.compat.v1.trainable_variables instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:198: The name tf.trainable_variables is deprecated. Please use tf.compat.v1.trainable_variables instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/python/ops/math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/python/ops/math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:206: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:206: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:240: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:240: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:242: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:242: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201216_080938-default/checkpoint/000000250000/vec_normalize.pkl'
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201216_080938-default/checkpoint/retrain_1'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201216_080938-default/checkpoint/retrain_1/vec_normalize.pkl'
+INFO - mujoco_py_131.mjviewer - initializing glfw@(3, 1, 2)
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201216_080938-default/checkpoint/000000500000'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201216_080938-default/checkpoint/000000500000/vec_normalize.pkl'
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201216_080938-default/checkpoint/retrain_2'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201216_080938-default/checkpoint/retrain_2/vec_normalize.pkl'
+INFO - mujoco_py_131.mjviewer - initializing glfw@(3, 1, 2)
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201216_080938-default/checkpoint/000000750000'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201216_080938-default/checkpoint/000000750000/vec_normalize.pkl'
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201216_080938-default/checkpoint/retrain_3'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201216_080938-default/checkpoint/retrain_3/vec_normalize.pkl'
+INFO - mujoco_py_131.mjviewer - initializing glfw@(3, 1, 2)
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201216_080938-default/checkpoint/000001000000'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201216_080938-default/checkpoint/000001000000/vec_normalize.pkl'
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201216_080938-default/checkpoint/retrain_4'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201216_080938-default/checkpoint/retrain_4/vec_normalize.pkl'
+INFO - mujoco_py_131.mjviewer - initializing glfw@(3, 1, 2)
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201216_080938-default/checkpoint/000001250000'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201216_080938-default/checkpoint/000001250000/vec_normalize.pkl'
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201216_080938-default/checkpoint/retrain_5'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201216_080938-default/checkpoint/retrain_5/vec_normalize.pkl'
+INFO - mujoco_py_131.mjviewer - initializing glfw@(3, 1, 2)
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201216_080938-default/checkpoint/000001500000'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201216_080938-default/checkpoint/000001500000/vec_normalize.pkl'
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201216_080938-default/checkpoint/retrain_6'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201216_080938-default/checkpoint/retrain_6/vec_normalize.pkl'
+INFO - mujoco_py_131.mjviewer - initializing glfw@(3, 1, 2)
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201216_080938-default/checkpoint/000001750000'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201216_080938-default/checkpoint/000001750000/vec_normalize.pkl'
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201216_080938-default/checkpoint/retrain_7'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201216_080938-default/checkpoint/retrain_7/vec_normalize.pkl'
+INFO - mujoco_py_131.mjviewer - initializing glfw@(3, 1, 2)
+INFO - score - Result: [{'win0': 0, 'win1': 1, 'ties': 19}, {'win0': 1, 'win1': 1, 'ties': 18}, {'win0': 0, 'win1': 1, 'ties': 19}, {'win0': 1, 'win1': 2, 'ties': 17}, {'win0': 0, 'win1': 0, 'ties': 20}, {'win0': 1, 'win1': 1, 'ties': 18}, {'win0': 0, 'win1': 0, 'ties': 20}]

@@ -1,0 +1,34 @@
+INFO - train - Running command 'train'
+INFO - train - Started run with ID "30"
+> /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/iterative_retrain.py(782)train()
+-> out_dir, logger = setup_logger(root_dir, exp_name, output_formats=log_output_formats)
+(Pdb) 'data/baselines'
+(Pdb) --Call--
+> /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/training/logger.py(80)setup_logger()
+-> def setup_logger(out_dir="results", exp_name="test", output_formats=None):
+(Pdb) > /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/training/logger.py(81)setup_logger()
+-> timestamp = utils.make_timestamp()
+(Pdb) --Call--
+> /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/common/utils.py(15)make_timestamp()
+-> def make_timestamp():
+(Pdb) > /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/common/utils.py(16)make_timestamp()
+-> ISO_TIMESTAMP = "%Y%m%d_%H%M%S"
+(Pdb) --Return--
+> /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/common/utils.py(17)make_timestamp()->'20201210_221609'
+-> return datetime.datetime.now().strftime(ISO_TIMESTAMP)
+(Pdb) > /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/training/logger.py(82)setup_logger()
+-> exp_name = exp_name.replace("/", "_")  # environment names can contain /'s
+(Pdb) > /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/training/logger.py(83)setup_logger()
+-> filename = "{}-{}".format(timestamp, exp_name)[0:255]  # Linux has filename limit of 255
+(Pdb) > /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/training/logger.py(84)setup_logger()
+-> out_dir = osp.join(out_dir, filename)
+(Pdb) --Call--
+> /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/posixpath.py(75)join()
+-> def join(a, *p):
+(Pdb) --Return--
+> /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/posixpath.py(96)join()->'data/baselin...21609-default'
+-> return path
+(Pdb) > /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/training/logger.py(85)setup_logger()
+-> os.makedirs(out_dir, exist_ok=True)
+(Pdb) 'data/baselines/20201210_221609-default'
+(Pdb) 

@@ -1,0 +1,6 @@
+INFO - score - Running command 'score_agent'
+INFO - score - Started run with ID "31"
+> /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/auto_score.py(218)score_agent()
+-> folder = os.listdir(os.path.join(dir, 'checkpoint'))
+(Pdb) ''
+(Pdb) 

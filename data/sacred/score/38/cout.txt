@@ -1,0 +1,6 @@
+INFO - score - Running command 'score_agent'
+INFO - score - Started run with ID "38"
+> /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/auto_score.py(227)score_agent()
+-> for _ in range():
+(Pdb) (Pdb) ['000000250000', '000000500000', '000000750000', '000001000000', '000001250000', '000001500000', '000001750000']
+(Pdb) 

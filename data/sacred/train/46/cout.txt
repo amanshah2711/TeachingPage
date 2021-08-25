@@ -1,0 +1,3177 @@
+INFO - train - Running command 'train'
+INFO - train - Started run with ID "46"
+Logging to data/baselines/20201210_233420-default/rl
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from ''
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/misc_util.py:26: The name tf.set_random_seed is deprecated. Please use tf.compat.v1.set_random_seed instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/misc_util.py:26: The name tf.set_random_seed is deprecated. Please use tf.compat.v1.set_random_seed instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/tf_util.py:191: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/tf_util.py:191: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/policies.py:116: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/policies.py:116: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/input.py:25: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/input.py:25: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/policies.py:561: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/policies.py:561: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/python/layers/core.py:332: Layer.apply (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/python/layers/core.py:332: Layer.apply (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/tf_layers.py:123: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/tf_layers.py:123: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/distributions.py:418: The name tf.random_normal is deprecated. Please use tf.random.normal instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/distributions.py:418: The name tf.random_normal is deprecated. Please use tf.random.normal instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:190: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:190: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:198: The name tf.trainable_variables is deprecated. Please use tf.compat.v1.trainable_variables instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:198: The name tf.trainable_variables is deprecated. Please use tf.compat.v1.trainable_variables instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/python/ops/math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/python/ops/math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:206: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:206: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:240: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:240: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:242: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/ppo2/ppo2.py:242: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+Logging to data/baselines/20201210_233420-default/rl/adversary_1
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201210_233420-default/checkpoint/000000000224'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201210_233420-default/checkpoint/000000000224/vec_normalize.pkl'
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/logger.py:233: The name tf.Summary is deprecated. Please use tf.compat.v1.Summary instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/logger.py:233: The name tf.Summary is deprecated. Please use tf.compat.v1.Summary instead.
+
+-------------------------------------
+| approxkl           | 0.0008893575 |
+| clipfrac           | 0.0015869141 |
+| ep_len_mean        | 55.8         |
+| ep_reward_mean     | -750         |
+| explained_variance | -0.0892      |
+| fps                | 453          |
+| n_updates          | 1            |
+| policy_entropy     | 24.125677    |
+| policy_loss        | -0.013819658 |
+| serial_timesteps   | 256          |
+| time_elapsed       | 1.31e-05     |
+| total_timesteps    | 2048         |
+| value_loss         | 1.149937     |
+-------------------------------------
+--------------------------------------
+| approxkl           | 0.00044350736 |
+| clipfrac           | 0.00012207031 |
+| ep_len_mean        | 53.2          |
+| ep_reward_mean     | -774          |
+| explained_variance | 0.189         |
+| fps                | 668           |
+| n_updates          | 2             |
+| policy_entropy     | 24.129875     |
+| policy_loss        | -0.007874562  |
+| serial_timesteps   | 512           |
+| time_elapsed       | 4.51          |
+| total_timesteps    | 4096          |
+| value_loss         | 0.65905297    |
+--------------------------------------
+Logging to data/baselines/20201210_233420-default/rl/adversary_2
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201210_233420-default/checkpoint/000000000480'
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201210_233420-default/checkpoint/000000000480/vec_normalize.pkl'
+-------------------------------------
+| approxkl           | 0.001051433  |
+| clipfrac           | 0.0026855469 |
+| ep_len_mean        | 50.6         |
+| ep_reward_mean     | -853         |
+| explained_variance | 0.0852       |
+| fps                | 440          |
+| n_updates          | 1            |
+| policy_entropy     | 24.11964     |
+| policy_loss        | -0.015134797 |
+| serial_timesteps   | 256          |
+| time_elapsed       | 1.29e-05     |
+| total_timesteps    | 2048         |
+| value_loss         | 1.2752136    |
+-------------------------------------
+--------------------------------------
+| approxkl           | 0.00053844607 |
+| clipfrac           | 0.00048828125 |
+| ep_len_mean        | 50.7          |
+| ep_reward_mean     | -845          |
+| explained_variance | 0.403         |
+| fps                | 644           |
+| n_updates          | 2             |
+| policy_entropy     | 24.122866     |
+| policy_loss        | -0.008690117  |
+| serial_timesteps   | 512           |
+| time_elapsed       | 4.65          |
+| total_timesteps    | 4096          |
+| value_loss         | 0.7591613     |
+--------------------------------------
+Logging to data/baselines/20201210_233420-default/rl/adversary_3
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201210_233420-default/checkpoint/000000000704'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201210_233420-default/checkpoint/000000000704/vec_normalize.pkl'
+-------------------------------------
+| approxkl           | 0.0008067186 |
+| clipfrac           | 0.0024414062 |
+| ep_len_mean        | 51.7         |
+| ep_reward_mean     | -838         |
+| explained_variance | -0.195       |
+| fps                | 360          |
+| n_updates          | 1            |
+| policy_entropy     | 24.119596    |
+| policy_loss        | -0.013789107 |
+| serial_timesteps   | 256          |
+| time_elapsed       | 1.29e-05     |
+| total_timesteps    | 2048         |
+| value_loss         | 1.3618914    |
+-------------------------------------
+--------------------------------------
+| approxkl           | 0.00045658293 |
+| clipfrac           | 0.00024414062 |
+| ep_len_mean        | 52.2          |
+| ep_reward_mean     | -889          |
+| explained_variance | 0.051         |
+| fps                | 596           |
+| n_updates          | 2             |
+| policy_entropy     | 24.112268     |
+| policy_loss        | -0.0077855918 |
+| serial_timesteps   | 512           |
+| time_elapsed       | 5.67          |
+| total_timesteps    | 4096          |
+| value_loss         | 0.68436325    |
+--------------------------------------
+Logging to data/baselines/20201210_233420-default/rl/adversary_4
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201210_233420-default/checkpoint/000000000960'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201210_233420-default/checkpoint/000000000960/vec_normalize.pkl'
+-------------------------------------
+| approxkl           | 0.0008827896 |
+| clipfrac           | 0.0018310547 |
+| ep_len_mean        | 51.9         |
+| ep_reward_mean     | -830         |
+| explained_variance | -0.302       |
+| fps                | 416          |
+| n_updates          | 1            |
+| policy_entropy     | 24.130081    |
+| policy_loss        | -0.014064556 |
+| serial_timesteps   | 256          |
+| time_elapsed       | 1.26e-05     |
+| total_timesteps    | 2048         |
+| value_loss         | 1.4891107    |
+-------------------------------------
+-------------------------------------
+| approxkl           | 0.0006606138 |
+| clipfrac           | 0.0014648438 |
+| ep_len_mean        | 51           |
+| ep_reward_mean     | -803         |
+| explained_variance | -0.0388      |
+| fps                | 613          |
+| n_updates          | 2            |
+| policy_entropy     | 24.141542    |
+| policy_loss        | -0.007655207 |
+| serial_timesteps   | 512          |
+| time_elapsed       | 4.91         |
+| total_timesteps    | 4096         |
+| value_loss         | 0.6683074    |
+-------------------------------------
+Logging to data/baselines/20201210_233420-default/rl/adversary_5
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201210_233420-default/checkpoint/000000001184'
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201210_233420-default/checkpoint/000000001184/vec_normalize.pkl'
+-------------------------------------
+| approxkl           | 0.0008463609 |
+| clipfrac           | 0.0017089844 |
+| ep_len_mean        | 53.6         |
+| ep_reward_mean     | -733         |
+| explained_variance | 0.0364       |
+| fps                | 385          |
+| n_updates          | 1            |
+| policy_entropy     | 24.127693    |
+| policy_loss        | -0.014687784 |
+| serial_timesteps   | 256          |
+| time_elapsed       | 1.41e-05     |
+| total_timesteps    | 2048         |
+| value_loss         | 1.0645797    |
+-------------------------------------
+-------------------------------------
+| approxkl           | 0.0007060648 |
+| clipfrac           | 0.0015869141 |
+| ep_len_mean        | 53.9         |
+| ep_reward_mean     | -748         |
+| explained_variance | 0.316        |
+| fps                | 583          |
+| n_updates          | 2            |
+| policy_entropy     | 24.14067     |
+| policy_loss        | -0.008894279 |
+| serial_timesteps   | 512          |
+| time_elapsed       | 5.31         |
+| total_timesteps    | 4096         |
+| value_loss         | 0.6874379    |
+-------------------------------------
+Logging to data/baselines/20201210_233420-default/rl/adversary_6
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201210_233420-default/checkpoint/000000001440'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201210_233420-default/checkpoint/000000001440/vec_normalize.pkl'
+-------------------------------------
+| approxkl           | 0.0008205073 |
+| clipfrac           | 0.0018310547 |
+| ep_len_mean        | 50.2         |
+| ep_reward_mean     | -893         |
+| explained_variance | 0.0222       |
+| fps                | 345          |
+| n_updates          | 1            |
+| policy_entropy     | 24.131609    |
+| policy_loss        | -0.012937137 |
+| serial_timesteps   | 256          |
+| time_elapsed       | 1.69e-05     |
+| total_timesteps    | 2048         |
+| value_loss         | 1.3004675    |
+-------------------------------------
+--------------------------------------
+| approxkl           | 0.0005848389  |
+| clipfrac           | 0.0009765625  |
+| ep_len_mean        | 49.8          |
+| ep_reward_mean     | -927          |
+| explained_variance | 0.242         |
+| fps                | 544           |
+| n_updates          | 2             |
+| policy_entropy     | 24.151129     |
+| policy_loss        | -0.0076106624 |
+| serial_timesteps   | 512           |
+| time_elapsed       | 5.92          |
+| total_timesteps    | 4096          |
+| value_loss         | 0.8144031     |
+--------------------------------------
+Logging to data/baselines/20201210_233420-default/rl/adversary_7
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201210_233420-default/checkpoint/000000001664'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201210_233420-default/checkpoint/000000001664/vec_normalize.pkl'
+-------------------------------------
+| approxkl           | 0.0010230433 |
+| clipfrac           | 0.001953125  |
+| ep_len_mean        | 52.3         |
+| ep_reward_mean     | -817         |
+| explained_variance | -0.103       |
+| fps                | 246          |
+| n_updates          | 1            |
+| policy_entropy     | 24.118593    |
+| policy_loss        | -0.014341993 |
+| serial_timesteps   | 256          |
+| time_elapsed       | 2.19e-05     |
+| total_timesteps    | 2048         |
+| value_loss         | 1.2757225    |
+-------------------------------------
+--------------------------------------
+| approxkl           | 0.00056997914 |
+| clipfrac           | 0.00012207031 |
+| ep_len_mean        | 53.2          |
+| ep_reward_mean     | -797          |
+| explained_variance | 0.148         |
+| fps                | 359           |
+| n_updates          | 2             |
+| policy_entropy     | 24.113916     |
+| policy_loss        | -0.008090336  |
+| serial_timesteps   | 512           |
+| time_elapsed       | 8.3           |
+| total_timesteps    | 4096          |
+| value_loss         | 0.69895595    |
+--------------------------------------
+Logging to data/baselines/20201210_233420-default/rl/adversary_8
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201210_233420-default/checkpoint/000000001920'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201210_233420-default/checkpoint/000000001920/vec_normalize.pkl'
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+-------------------------------------
+| approxkl           | 0.0010214852 |
+| clipfrac           | 0.0024414062 |
+| ep_len_mean        | 48.4         |
+| ep_reward_mean     | -775         |
+| explained_variance | -0.223       |
+| fps                | 212          |
+| n_updates          | 1            |
+| policy_entropy     | 24.124355    |
+| policy_loss        | -0.015587386 |
+| serial_timesteps   | 256          |
+| time_elapsed       | 2.31e-05     |
+| total_timesteps    | 2048         |
+| value_loss         | 1.3942451    |
+-------------------------------------
+-------------------------------------
+| approxkl           | 0.0006551869 |
+| clipfrac           | 0.0014648438 |
+| ep_len_mean        | 50           |
+| ep_reward_mean     | -689         |
+| explained_variance | 0.0396       |
+| fps                | 427          |
+| n_updates          | 2            |
+| policy_entropy     | 24.127304    |
+| policy_loss        | -0.008632629 |
+| serial_timesteps   | 512          |
+| time_elapsed       | 9.63         |
+| total_timesteps    | 4096         |
+| value_loss         | 0.7039605    |
+-------------------------------------
+-------------------------------------
+| approxkl           | 0.0010584751 |
+| clipfrac           | 0.0037841797 |
+| ep_len_mean        | 44.2         |
+| ep_reward_mean     | -388         |
+| explained_variance | -0.0155      |
+| fps                | 10           |
+| n_updates          | 1            |
+| policy_entropy     | 24.126421    |
+| policy_loss        | -0.016443904 |
+| serial_timesteps   | 256          |
+| time_elapsed       | 2.6e-05      |
+| total_timesteps    | 2048         |
+| value_loss         | 1.2376108    |
+-------------------------------------
+Logging to data/baselines/20201210_233420-default/rl/adversary_9
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201210_233420-default/checkpoint/000000002144'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201210_233420-default/checkpoint/000000002144/vec_normalize.pkl'
+--------------------------------------
+| approxkl           | 0.00097596314 |
+| clipfrac           | 0.0031738281  |
+| ep_len_mean        | 51.5          |
+| ep_reward_mean     | -889          |
+| explained_variance | 0.0376        |
+| fps                | 263           |
+| n_updates          | 1             |
+| policy_entropy     | 24.128767     |
+| policy_loss        | -0.015396733  |
+| serial_timesteps   | 256           |
+| time_elapsed       | 2.98e-05      |
+| total_timesteps    | 2048          |
+| value_loss         | 1.3464845     |
+--------------------------------------
+--------------------------------------
+| approxkl           | 0.0006007479  |
+| clipfrac           | 0.00061035156 |
+| ep_len_mean        | 51            |
+| ep_reward_mean     | -875          |
+| explained_variance | 0.406         |
+| fps                | 475           |
+| n_updates          | 2             |
+| policy_entropy     | 24.140356     |
+| policy_loss        | -0.008614274  |
+| serial_timesteps   | 512           |
+| time_elapsed       | 7.78          |
+| total_timesteps    | 4096          |
+| value_loss         | 0.75171953    |
+--------------------------------------
+Logging to data/baselines/20201210_233420-default/rl/adversary_10
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201210_233420-default/checkpoint/000000002400'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201210_233420-default/checkpoint/000000002400/vec_normalize.pkl'
+-------------------------------------
+| approxkl           | 0.0010573952 |
+| clipfrac           | 0.0043945312 |
+| ep_len_mean        | 51.2         |
+| ep_reward_mean     | -880         |
+| explained_variance | 0.14         |
+| fps                | 264          |
+| n_updates          | 1            |
+| policy_entropy     | 24.132816    |
+| policy_loss        | -0.014668783 |
+| serial_timesteps   | 256          |
+| time_elapsed       | 2.19e-05     |
+| total_timesteps    | 2048         |
+| value_loss         | 1.2621326    |
+-------------------------------------
+-------------------------------------
+| approxkl           | 0.000540756  |
+| clipfrac           | 0.0007324219 |
+| ep_len_mean        | 51.6         |
+| ep_reward_mean     | -913         |
+| explained_variance | 0.487        |
+| fps                | 368          |
+| n_updates          | 2            |
+| policy_entropy     | 24.148182    |
+| policy_loss        | -0.007767709 |
+| serial_timesteps   | 512          |
+| time_elapsed       | 7.74         |
+| total_timesteps    | 4096         |
+| value_loss         | 0.7497586    |
+-------------------------------------
+Logging to data/baselines/20201210_233420-default/rl/adversary_11
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201210_233420-default/checkpoint/000000002624'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201210_233420-default/checkpoint/000000002624/vec_normalize.pkl'
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+-------------------------------------
+| approxkl           | 0.0009803139 |
+| clipfrac           | 0.0031738281 |
+| ep_len_mean        | 52.7         |
+| ep_reward_mean     | -903         |
+| explained_variance | 0.00732      |
+| fps                | 293          |
+| n_updates          | 1            |
+| policy_entropy     | 24.127968    |
+| policy_loss        | -0.014542702 |
+| serial_timesteps   | 256          |
+| time_elapsed       | 1.91e-05     |
+| total_timesteps    | 2048         |
+| value_loss         | 1.3252884    |
+-------------------------------------
+--------------------------------------
+| approxkl           | 0.00047599192 |
+| clipfrac           | 0.00024414062 |
+| ep_len_mean        | 50.9          |
+| ep_reward_mean     | -913          |
+| explained_variance | 0.31          |
+| fps                | 446           |
+| n_updates          | 2             |
+| policy_entropy     | 24.134731     |
+| policy_loss        | -0.007109247  |
+| serial_timesteps   | 512           |
+| time_elapsed       | 6.98          |
+| total_timesteps    | 4096          |
+| value_loss         | 0.8425119     |
+--------------------------------------
+Logging to data/baselines/20201210_233420-default/rl/adversary_12
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201210_233420-default/checkpoint/000000002880'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201210_233420-default/checkpoint/000000002880/vec_normalize.pkl'
+-------------------------------------
+| approxkl           | 0.0011138296 |
+| clipfrac           | 0.005126953  |
+| ep_len_mean        | 54.3         |
+| ep_reward_mean     | -767         |
+| explained_variance | 0.0369       |
+| fps                | 278          |
+| n_updates          | 1            |
+| policy_entropy     | 24.123018    |
+| policy_loss        | -0.015103183 |
+| serial_timesteps   | 256          |
+| time_elapsed       | 2.1e-05      |
+| total_timesteps    | 2048         |
+| value_loss         | 1.1581354    |
+-------------------------------------
+-------------------------------------
+| approxkl           | 0.0005708967 |
+| clipfrac           | 0.0007324219 |
+| ep_len_mean        | 52           |
+| ep_reward_mean     | -807         |
+| explained_variance | 0.39         |
+| fps                | 413          |
+| n_updates          | 2            |
+| policy_entropy     | 24.12484     |
+| policy_loss        | -0.008438711 |
+| serial_timesteps   | 512          |
+| time_elapsed       | 7.35         |
+| total_timesteps    | 4096         |
+| value_loss         | 0.52327096   |
+-------------------------------------
+Logging to data/baselines/20201210_233420-default/rl/adversary_13
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201210_233420-default/checkpoint/000000003104'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201210_233420-default/checkpoint/000000003104/vec_normalize.pkl'
+-------------------------------------
+| approxkl           | 0.0010576524 |
+| clipfrac           | 0.0031738281 |
+| ep_len_mean        | 50.4         |
+| ep_reward_mean     | -894         |
+| explained_variance | -0.463       |
+| fps                | 188          |
+| n_updates          | 1            |
+| policy_entropy     | 24.129303    |
+| policy_loss        | -0.015445227 |
+| serial_timesteps   | 256          |
+| time_elapsed       | 2.48e-05     |
+| total_timesteps    | 2048         |
+| value_loss         | 1.4971356    |
+-------------------------------------
+--------------------------------------
+| approxkl           | 0.0004618957  |
+| clipfrac           | 0.00024414062 |
+| ep_len_mean        | 50.2          |
+| ep_reward_mean     | -844          |
+| explained_variance | -0.216        |
+| fps                | 314           |
+| n_updates          | 2             |
+| policy_entropy     | 24.143965     |
+| policy_loss        | -0.007302463  |
+| serial_timesteps   | 512           |
+| time_elapsed       | 10.9          |
+| total_timesteps    | 4096          |
+| value_loss         | 0.70130366    |
+--------------------------------------
+Logging to data/baselines/20201210_233420-default/rl/adversary_14
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201210_233420-default/checkpoint/000000003360'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201210_233420-default/checkpoint/000000003360/vec_normalize.pkl'
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+-------------------------------------
+| approxkl           | 0.001019613  |
+| clipfrac           | 0.0037841797 |
+| ep_len_mean        | 49.7         |
+| ep_reward_mean     | -846         |
+| explained_variance | 0.103        |
+| fps                | 262          |
+| n_updates          | 1            |
+| policy_entropy     | 24.124468    |
+| policy_loss        | -0.0139219   |
+| serial_timesteps   | 256          |
+| time_elapsed       | 2.41e-05     |
+| total_timesteps    | 2048         |
+| value_loss         | 1.266313     |
+-------------------------------------
+--------------------------------------
+| approxkl           | 0.0004980167  |
+| clipfrac           | 0.00036621094 |
+| ep_len_mean        | 50.2          |
+| ep_reward_mean     | -877          |
+| explained_variance | 0.341         |
+| fps                | 430           |
+| n_updates          | 2             |
+| policy_entropy     | 24.131813     |
+| policy_loss        | -0.00697849   |
+| serial_timesteps   | 512           |
+| time_elapsed       | 7.81          |
+| total_timesteps    | 4096          |
+| value_loss         | 0.85163915    |
+--------------------------------------
+Logging to data/baselines/20201210_233420-default/rl/adversary_15
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201210_233420-default/checkpoint/000000003584'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201210_233420-default/checkpoint/000000003584/vec_normalize.pkl'
+--------------------------------------
+| approxkl           | 0.00081682904 |
+| clipfrac           | 0.0015869141  |
+| ep_len_mean        | 48.6          |
+| ep_reward_mean     | -894          |
+| explained_variance | -0.104        |
+| fps                | 284           |
+| n_updates          | 1             |
+| policy_entropy     | 24.122747     |
+| policy_loss        | -0.015187193  |
+| serial_timesteps   | 256           |
+| time_elapsed       | 2e-05         |
+| total_timesteps    | 2048          |
+| value_loss         | 1.4934964     |
+--------------------------------------
+--------------------------------------
+| approxkl           | 0.0004256441  |
+| clipfrac           | 0.00024414062 |
+| ep_len_mean        | 50            |
+| ep_reward_mean     | -877          |
+| explained_variance | 0.277         |
+| fps                | 465           |
+| n_updates          | 2             |
+| policy_entropy     | 24.126755     |
+| policy_loss        | -0.0074730865 |
+| serial_timesteps   | 512           |
+| time_elapsed       | 7.19          |
+| total_timesteps    | 4096          |
+| value_loss         | 0.7506301     |
+--------------------------------------
+Logging to data/baselines/20201210_233420-default/rl/adversary_16
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201210_233420-default/checkpoint/000000003840'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201210_233420-default/checkpoint/000000003840/vec_normalize.pkl'
+-------------------------------------
+| approxkl           | 0.0011904154 |
+| clipfrac           | 0.0052490234 |
+| ep_len_mean        | 51.4         |
+| ep_reward_mean     | -869         |
+| explained_variance | -0.0999      |
+| fps                | 302          |
+| n_updates          | 1            |
+| policy_entropy     | 24.122152    |
+| policy_loss        | -0.016903091 |
+| serial_timesteps   | 256          |
+| time_elapsed       | 2e-05        |
+| total_timesteps    | 2048         |
+| value_loss         | 1.434242     |
+-------------------------------------
+--------------------------------------
+| approxkl           | 0.00052727445 |
+| clipfrac           | 0.0           |
+| ep_len_mean        | 50.9          |
+| ep_reward_mean     | -813          |
+| explained_variance | 0.255         |
+| fps                | 481           |
+| n_updates          | 2             |
+| policy_entropy     | 24.126225     |
+| policy_loss        | -0.008052669  |
+| serial_timesteps   | 512           |
+| time_elapsed       | 6.78          |
+| total_timesteps    | 4096          |
+| value_loss         | 0.68287736    |
+--------------------------------------
+Logging to data/baselines/20201210_233420-default/rl/adversary_17
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201210_233420-default/checkpoint/000000004064'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201210_233420-default/checkpoint/000000004064/vec_normalize.pkl'
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+--------------------------------------
+| approxkl           | 0.00078160834 |
+| clipfrac           | 0.0020751953  |
+| ep_len_mean        | 52.5          |
+| ep_reward_mean     | -784          |
+| explained_variance | -0.0456       |
+| fps                | 290           |
+| n_updates          | 1             |
+| policy_entropy     | 24.128082     |
+| policy_loss        | -0.013892378  |
+| serial_timesteps   | 256           |
+| time_elapsed       | 2.1e-05       |
+| total_timesteps    | 2048          |
+| value_loss         | 1.3202386     |
+--------------------------------------
+--------------------------------------
+| approxkl           | 0.00045036653 |
+| clipfrac           | 0.0           |
+| ep_len_mean        | 49.5          |
+| ep_reward_mean     | -837          |
+| explained_variance | 0.318         |
+| fps                | 434           |
+| n_updates          | 2             |
+| policy_entropy     | 24.135996     |
+| policy_loss        | -0.00735939   |
+| serial_timesteps   | 512           |
+| time_elapsed       | 7.05          |
+| total_timesteps    | 4096          |
+| value_loss         | 0.7286254     |
+--------------------------------------
+--------------------------------------
+| approxkl           | 0.00045723986 |
+| clipfrac           | 0.00036621094 |
+| ep_len_mean        | 45.5          |
+| ep_reward_mean     | -395          |
+| explained_variance | 0.168         |
+| fps                | 7             |
+| n_updates          | 2             |
+| policy_entropy     | 24.136307     |
+| policy_loss        | -0.006784511  |
+| serial_timesteps   | 512           |
+| time_elapsed       | 187           |
+| total_timesteps    | 4096          |
+| value_loss         | 0.80292374    |
+--------------------------------------
+Logging to data/baselines/20201210_233420-default/rl/adversary_18
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Creating agent humanoid_fighter
+Reading agent XML from: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/humanoid_body.xml
+Scene XML path: /Users/amanshah/Desktop/test/multiagent-competition/gym_compete/new_envs/assets/world_body_arena.humanoid_body.humanoid_body.xml
+Created Scene with agents
+INFO - rlproj.policy_loader - Loading Stable Baselines policy for '<class 'stable_baselines.ppo2.ppo2.PPO2'>' from 'data/baselines/20201210_233420-default/checkpoint/000000004320'
+INFO - rlproj.policy_loader - Loaded normalization statistics from 'data/baselines/20201210_233420-default/checkpoint/000000004320/vec_normalize.pkl'
+-------------------------------------
+| approxkl           | 0.0009071103 |
+| clipfrac           | 0.001953125  |
+| ep_len_mean        | 52.6         |
+| ep_reward_mean     | -837         |
+| explained_variance | -0.0274      |
+| fps                | 249          |
+| n_updates          | 1            |
+| policy_entropy     | 24.12825     |
+| policy_loss        | -0.015179368 |
+| serial_timesteps   | 256          |
+| time_elapsed       | 2.41e-05     |
+| total_timesteps    | 2048         |
+| value_loss         | 1.1706992    |
+-------------------------------------
+--------------------------------------
+| approxkl           | 0.0004979226  |
+| clipfrac           | 0.00012207031 |
+| ep_len_mean        | 52.5          |
+| ep_reward_mean     | -796          |
+| explained_variance | 0.25          |
+| fps                | 354           |
+| n_updates          | 2             |
+| policy_entropy     | 24.136024     |
+| policy_loss        | -0.00867669   |
+| serial_timesteps   | 512           |
+| time_elapsed       | 8.22          |
+| total_timesteps    | 4096          |
+| value_loss         | 0.5855232     |
+--------------------------------------
+Logging to data/baselines/20201210_233420-default/rl/adversary_19
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/policies/base.py:21: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+

@@ -1,0 +1,91 @@
+INFO - score - Running command 'score_agent'
+INFO - score - Started run with ID "24"
+Creating agent ant_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/ant_body.xml
+Creating agent ant_fighter
+Reading agent XML from: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/ant_body.xml
+Scene XML path: /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/new_envs/assets/world_body_arena.ant_body.ant_body.xml
+Created Scene with agents
+WARNING:tensorflow:From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/common/utils.py:9: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+WARNING - tensorflow - From /Users/amanshah/Desktop/cs285_fa2020_project/rlproj/common/utils.py:9: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2020-12-16 10:54:53.959510: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-12-16 10:54:53.959959: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 12. Tune using inter_op_parallelism_threads for best performance.
+INFO - rlproj.envs.gym_compete - Loaded zoo parameters from 'agent_zoo/SumoAnts-v0/agent_parameters-v1.pkl'
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/policies.py:116: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/policies.py:116: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/input.py:25: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/input.py:25: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/policy.py:67: The name tf.get_variable_scope is deprecated. Please use tf.compat.v1.get_variable_scope instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/policy.py:67: The name tf.get_variable_scope is deprecated. Please use tf.compat.v1.get_variable_scope instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/policy.py:22: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/policy.py:22: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/policy.py:39: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/policy.py:39: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/contrib/layers/python/layers/layers.py:1866: Layer.apply (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/contrib/layers/python/layers/layers.py:1866: Layer.apply (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/policy.py:191: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/policy.py:191: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/policy.py:217: The name tf.nn.raw_rnn is deprecated. Please use tf.compat.v1.nn.raw_rnn instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/policy.py:217: The name tf.nn.raw_rnn is deprecated. Please use tf.compat.v1.nn.raw_rnn instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/python/ops/rnn_cell_impl.py:735: Layer.add_variable (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.add_weight` method instead.
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/python/ops/rnn_cell_impl.py:735: Layer.add_variable (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.add_weight` method instead.
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/python/ops/rnn_cell_impl.py:739: calling Zeros.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/python/ops/rnn_cell_impl.py:739: calling Zeros.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/python/ops/rnn.py:1230: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/tensorflow_core/python/ops/rnn.py:1230: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/policy.py:103: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/policy.py:103: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/policy.py:244: The name tf.add_to_collection is deprecated. Please use tf.compat.v1.add_to_collection instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/policy.py:244: The name tf.add_to_collection is deprecated. Please use tf.compat.v1.add_to_collection instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/distributions.py:418: The name tf.random_normal is deprecated. Please use tf.random.normal instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/stable_baselines/common/distributions.py:418: The name tf.random_normal is deprecated. Please use tf.random.normal instead.
+
+WARNING:tensorflow:From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/policy.py:96: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+WARNING - tensorflow - From /Users/amanshah/opt/anaconda3/envs/285proj/lib/python3.7/site-packages/gym_compete/policy.py:96: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+INFO - mujoco_py_131.mjviewer - initializing glfw@(3, 1, 2)
+INFO - score - Result: {'win0': 13, 'win1': 1, 'ties': 6}
+INFO - score - Completed after 0:01:09
