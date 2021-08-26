@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4249cbbb3fb05bdd7751319c5340088e",
+    "revision": "cc312c13959bbb2c52254e3d001d8c6d",
     "url": "/teaching/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teaching/static/css/2.74189dbb.chunk.css"
   },
   {
-    "revision": "3791ebca31ccd71e2e7c",
+    "revision": "1065fb5e216d8b5663d2",
     "url": "/teaching/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teaching/static/js/2.82ea07e3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3791ebca31ccd71e2e7c",
-    "url": "/teaching/static/js/main.d1a720d4.chunk.js"
+    "revision": "1065fb5e216d8b5663d2",
+    "url": "/teaching/static/js/main.a6110a86.chunk.js"
   },
   {
     "revision": "0d6edd31997eb39d8aab",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teaching/static/media/disc00_sol.04efd4ec.pdf"
   },
   {
-    "revision": "32cd1fdb80716931f066eff8fe7555fe",
-    "url": "/teaching/static/media/disc_00.32cd1fdb.pdf"
+    "revision": "3573b2494dece2e0d0cbdb09b5126e71",
+    "url": "/teaching/static/media/disc_00.3573b249.pdf"
   },
   {
     "revision": "4e7498424d961e9fbcf656a07624497b",
